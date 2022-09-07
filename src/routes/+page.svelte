@@ -52,7 +52,7 @@
 </div>
 
 <style>
-	.mian {
+	.main {
 		overflow-x: scroll;
 	}
 </style>

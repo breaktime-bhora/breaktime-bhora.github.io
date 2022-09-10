@@ -1,41 +1,42 @@
 <script>
 	import data from "$lib/data/data.json";
 
-	let season = "3rd Term 2022"
-
-	let plasil = {
-		name: "C.F. Plasil",
-		played: data[0].stats.length,
-		won: 0,
-		drawn: 0,
-		lost: 0,
-		gf: 0,
-		ga: 0
+	function generateTeam(name) {
+		return {
+			name: name,
+			played: data[0].stats.length,
+			won: 0,
+			drawn: 0,
+			lost: 0,
+			g: [0, 0]
+		}
 	}
 
-	let grehn = {
-		name: "Grehn F.C.",
-		played: data[0].stats.length,
-		won: 0,
-		drawn: 0,
-		lost: 0,
-		gf: 0,
-		ga: 0
-	}
+	let teams = [ new generateTeam("PLA"), new generateTeam("GRH")]
 
 	data[0].stats.forEach((node) => {
+		// WIns/Draws/Losses
 		if (node.score_plasil > node.score_grehn) {
-			plasil.won += 1;
-			grehn.lost += 1;
+			teams[0].won += 1;
+			teams[1].lost += 1;
 		} else if (node.score_grehn > node.score_plasil) {
-			grehn.won += 1;
-			plasil.lost += 1;
+			teams[1].won += 1;
+			teams[0].lost += 1;
 		} else {
-			grehn.drawn += 1;
-			plasil.drawn += 1;
+			teams[1].drawn += 1;
+			teams[0].drawn += 1;
 		}
+
+		// Goal Difference
+		teams[0].g[0] += node.score_plasil;
+		teams[0].g[1] += node.score_grehn;
+		teams[1].g[0] += node.score_grehn;
+		teams[1].g[1] += node.score_plasil;
 	});
 
+	if (teams[0].points < teams[1].points || teams[0].points === teams[1].points && teams[0].g[0] < teams[1].g[0]) {
+		teams.reverse();
+	}
 </script>
 
 <svelte:head>
@@ -44,15 +45,11 @@
 </svelte:head>
 
 <div class="main">
+	<h1>Tables</h1>
 	<table>
-		<tr><th>Position</th><th>Team</th><th>Played</th><th>Won</th><th>Drawn</th><th>Lost</th><th>GF</th><th>GA</th><th>GD</th><th>Points</th></tr>
-		<tr><td>1</td><td>{plasil.name}</td><td>{plasil.played}</td><td>{plasil.won}</td><td>{plasil.drawn}</td><td>{plasil.lost}</td><td>{plasil.gf}</td><td>{plasil.ga}</td><td>{plasil.gf - plasil.ga}</td><td>{plasil.won * 3 + plasil.drawn}</td></tr>
-		<tr><td>2</td><td>{grehn.name}</td><td>{grehn.played}</td><td>{grehn.won}</td><td>{grehn.drawn}</td><td>{grehn.lost}</td><td>{grehn.gf}</td><td>{grehn.ga}</td><td>{grehn.gf - grehn.ga}</td><td>{grehn.won * 3 + grehn.drawn}</td></tr>
+		<tr><th>Club</th><th>P</th><th>W</th><th>D</th><th>L</th><th>G</th><th><b>Pts</b></th></tr>
+		{#each teams as team}
+		<tr><td>{team.name}</td><td>{team.played}</td><td>{team.won}</td><td>{team.drawn}</td><td>{team.lost}</td><td>{team.g.toString().replace(",", ":")}</td><td><b>{team.won * 3 + team.drawn}</b></td></tr>
+		{/each}
 	</table>
 </div>
-
-<style>
-	.main {
-		overflow-x: scroll;
-	}
-</style>

@@ -12,7 +12,7 @@
 		}
 	}
 
-	let teams = [ new generateTeam("PLA"), new generateTeam("GRH")]
+	let teams = [ new generateTeam("P&B"), new generateTeam("G&J")]
 
 	data[0].stats.forEach((node) => {
 		// WIns/Draws/Losses

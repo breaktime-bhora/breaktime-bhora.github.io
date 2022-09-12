@@ -1,7 +1,7 @@
 <script>
 	import data from "$lib/data/data.json";
 
-	let matches = data[0].stats;
+	let matches = [... data[0].stats];
 
 	let date = matches.reverse()[0].date;
 </script>

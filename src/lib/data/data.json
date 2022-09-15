@@ -74,6 +74,16 @@
                     "A. Sibanda"
                 ],
                 "scorers_grehn": []
+            },
+            {
+                "matchday": "7",
+                "date": "15/07/2022",
+                "score_plasil": 0,
+                "score_grehn": 1,
+                "scorers_plasil": [],
+                "scorers_grehn": [
+                    "Z. Carnegie"
+                ]
             }
         ]
     }

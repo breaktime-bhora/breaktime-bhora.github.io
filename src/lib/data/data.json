@@ -106,6 +106,17 @@
                 "scorers_grehn": [
                     "M. Mkanganwi"
                 ]
+            },
+            {
+                "matchday": "10",
+                "date": "20/07/2022",
+                "score_plasil": 0,
+                "score_grehn": 2,
+                "scorers_plasil": [
+                    "M. Ohizu",
+                    "P. Mudondo"
+                ],
+                "scorers_grehn": []
             }
         ]
     }

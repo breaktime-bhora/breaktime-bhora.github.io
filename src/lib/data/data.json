@@ -110,8 +110,8 @@
             {
                 "matchday": "10",
                 "date": "20/07/2022",
-                "score_plasil": 0,
-                "score_grehn": 2,
+                "score_plasil": 2,
+                "score_grehn": 0,
                 "scorers_plasil": [
                     "M. Ohizu",
                     "P. Mudondo"

@@ -117,6 +117,16 @@
                     "P. Mudondo"
                 ],
                 "scorers_grehn": []
+            },
+            {
+                "matchday": "11",
+                "date": "20/07/2022",
+                "score_plasil": 0,
+                "score_grehn": 1,
+                "scorers_plasil": [],
+                "scorers_grehn": [
+                    "B. Passaportis"
+                ]
             }
         ]
     }

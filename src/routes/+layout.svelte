@@ -1,16 +1,23 @@
 <script>
 	import Header from '$lib/header/Header.svelte';
-	import Footer from '$lib/footer/Footer.svelte';
 	import '../app.css';
+	import { page } from '$app/stores';
+
+	let pages = {
+		"/results": "Results",
+		"/goals": "Goals",
+		"/": "Tables"
+	}
 </script>
 
 <Header />
 
 <main>
-	<slot />
+	<div class="main">
+		<h1>{pages[$page.url.pathname]}</h1>
+		<slot />
+	</div>
 </main>
-
-<Footer />
 
 <style>
 	main {

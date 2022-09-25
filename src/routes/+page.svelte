@@ -1,5 +1,8 @@
 <script>
 	import data from "$lib/data/data.json";
+	import Form from "$lib/form/Form.svelte";
+
+	let form = [... data[0].stats].slice(-5);
 
 	function generateTeam(name) {
 		return {
@@ -44,12 +47,21 @@
 	
 </svelte:head>
 
-<div class="main">
-	<h1>Tables</h1>
-	<table>
-		<tr><th>Club</th><th>P</th><th>W</th><th>D</th><th>L</th><th>G</th><th><b>Pts</b></th></tr>
-		{#each teams as team}
-		<tr><td>{team.name}</td><td>{team.played}</td><td>{team.won}</td><td>{team.drawn}</td><td>{team.lost}</td><td>{team.g.toString().replace(",", ":")}</td><td><b>{team.won * 3 + team.drawn}</b></td></tr>
+<table>
+	<tr><th>Club</th><th>P</th><th>W</th><th>D</th><th>L</th><th>G</th><th><b>Pts</b></th><th style="width: 30%" class="collapse">Form</th></tr>
+	{#each teams as team}
+	<tr><td>{team.name}</td><td>{team.played}</td><td>{team.won}</td><td>{team.drawn}</td><td>{team.lost}</td><td>{team.g.toString().replace(",", ":")}</td><td><b>{team.won * 3 + team.drawn}</b></td><td class="collapse">
+		{#each form as match}
+			<Form plasil={match.score_plasil} grehn={match.score_grehn} team={team.name} />
 		{/each}
-	</table>
-</div>
+	</td></tr>
+	{/each}
+</table>
+
+<style>
+	@media screen and (max-width: 750px) {
+		.collapse {
+			display: none;
+		}
+	}
+</style>

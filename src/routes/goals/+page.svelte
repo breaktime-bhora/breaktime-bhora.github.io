@@ -29,15 +29,12 @@
 </script>
 
 <svelte:head>
-	<title>Breaktime Bhora</title>
+	<title>Breaktime Bhora | Goals</title>
 </svelte:head>
 
-<div class="main">
-	<h1>Goals</h1>
-	<table>
-		<tr><th>Player</th><th>Goals</th></tr>
-		{#each goalscorers as player}
-			<tr><td>{player[0]}</td><td>{player[1]}</td></tr>
-		{/each}
-	</table>
-</div>
+<table>
+	<tr><th>Player</th><th>Goals</th></tr>
+	{#each goalscorers as player}
+		<tr><td>{player[0]}</td><td>{player[1]}</td></tr>
+	{/each}
+</table>

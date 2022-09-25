@@ -17,10 +17,10 @@
 		padding: 16px;
 		margin: 0;
 		width: 100%;
-		background-color: #ffffff;
+		background-color: #ffffff00;
 		color: #747474;
 		font-size: 1.1em;
-		text-align: center;
+		text-align: right;
 	}
 
 	p {

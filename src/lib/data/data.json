@@ -137,6 +137,18 @@
                 "scorers_grehn": [
                     "A. Muirimi"
                 ]
+            },
+            {
+                "matchday": "13",
+                "date": "26/07/2022",
+                "score_plasil": 1,
+                "score_grehn": 1,
+                "scorers_plasil": [
+                    "A. Sibanda"
+                ],
+                "scorers_grehn": [
+                    "B. Passaportis"
+                ]
             }
         ]
     }

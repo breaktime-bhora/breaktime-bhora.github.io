@@ -149,6 +149,19 @@
                 "scorers_grehn": [
                     "B. Passaportis"
                 ]
+            },
+            {
+                "matchday": "14",
+                "date": "27/07/2022",
+                "score_plasil": 1,
+                "score_grehn": 2,
+                "scorers_plasil": [
+                    "U. Chimombe"
+                ],
+                "scorers_grehn": [
+                    "B. Hansen",
+                    "B. Hansen"
+                ]
             }
         ]
     }

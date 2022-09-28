@@ -163,6 +163,18 @@
                     "B. Passaportis"
                 ]
             }
+            {
+                "matchday": "15",
+                "date": "27/07/2022",
+                "score_plasil": 1,
+                "score_grehn": 1,
+                "scorers_plasil": [
+                    "L. Taravinga"
+                ],
+                "scorers_grehn": [
+                    "A. Muirimi"
+                ]
+            }
         ]
     }
 ]

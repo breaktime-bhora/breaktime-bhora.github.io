@@ -182,6 +182,17 @@
                 "score_grehn": 0,
                 "scorers_plasil": [],
                 "scorers_grehn": []
+            },
+            {
+                "matchday": "17",
+                "date": "30/07/2022",
+                "score_plasil": 2,
+                "score_grehn": 0,
+                "scorers_plasil": [
+                    "T. Guviriro",
+                    "A. Sibanda"
+                ],
+                "scorers_grehn": []
             }
         ]
     }

@@ -206,6 +206,23 @@
                     "A. Sibanda"
                 ],
                 "scorers_grehn": []
+            },
+            {
+                "matchday": "19",
+                "date": "04/10/2022",
+                "score_plasil": 2,
+                "score_grehn": 5,
+                "scorers_plasil": [
+                    "U. Chimombe",
+                    "L. Taravinga"
+                ],
+                "scorers_grehn": [
+                    "Z. Carnegie",
+                    "P. Nebarwe",
+                    "B. Hansen",
+                    "A. Muirimi",
+                    "M. Mkanganwi"
+                ]
             }
         ]
     }

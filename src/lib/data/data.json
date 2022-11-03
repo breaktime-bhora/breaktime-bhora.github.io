@@ -17,8 +17,8 @@
             {
                 "matchday": "2",
                 "date": "1/11/2022",
-                "score_plasil": 2,
-                "score_grehn": 1,
+                "score_plasil": 1,
+                "score_grehn": 2,
                 "scorers_grehn": [
                     "B. Passaportis",
                     "T. Owen"
@@ -30,8 +30,8 @@
             {
                 "matchday": "3",
                 "date": "3/11/2022",
-                "score_plasil": 3,
-                "score_grehn": 2,
+                "score_plasil": 2,
+                "score_grehn": 3,
                 "scorers_grehn": [
                     "B. Passaportis",
                     "B. Passaportis",

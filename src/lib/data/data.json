@@ -41,6 +41,20 @@
                     "P. Mudondo",
                     "A. Sibanda"
                 ]
+            },
+            {
+                "matchday": "4",
+                "date": "4/11/2022",
+                "score_plasil": 2,
+                "score_grehn": 2,
+                "scorers_grehn": [
+                    "B. Passaportis",
+                    "M. Mkanganwi"
+                ],
+                "scorers_plasil": [
+                    "P. Mudondo",
+                    "U. Chimombe"
+                ]
             }
         ]
     }

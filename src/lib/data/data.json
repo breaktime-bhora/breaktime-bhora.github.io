@@ -66,6 +66,16 @@
                     "A. Sibanda",
                     "M. Ohizu"
                 ]
+            },
+            {
+                "matchday": "6",
+                "date": "8/11/2022",
+                "score_plasil": 2,
+                "score_grehn": 0,
+                "scorers_grehn": [],
+                "scorers_plasil": [
+                    "A. Sibanda"
+                ]
             }
         ]
     }

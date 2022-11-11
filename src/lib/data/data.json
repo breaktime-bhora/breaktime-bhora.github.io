@@ -98,6 +98,16 @@
                     "M. Kashaya"
                 ],
                 "scorers_plasil": []
+            },
+            {
+                "matchday": "9",
+                "date": "11/11/2022",
+                "score_plasil": 0,
+                "score_grehn": 1,
+                "scorers_grehn": [
+                    "P. Chimedza"
+                ],
+                "scorers_plasil": []
             }
         ]
     }

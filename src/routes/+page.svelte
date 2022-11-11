@@ -37,7 +37,7 @@
 		teams[1].g[1] += node.score_plasil;
 	});
 
-	if (teams[0].points < teams[1].points || teams[0].points === teams[1].points && teams[0].g[0] < teams[1].g[0]) {
+	if (teams[0].points < teams[1].points || (teams[0].points == teams[1].points && teams[0].g[0] < teams[1].g[0])) {
 		teams.reverse();
 	}
 </script>

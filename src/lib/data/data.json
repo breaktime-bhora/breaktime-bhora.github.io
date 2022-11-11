@@ -76,6 +76,28 @@
                 "scorers_plasil": [
                     "A. Sibanda"
                 ]
+            },
+            {
+                "matchday": "7",
+                "date": "9/11/2022",
+                "score_plasil": 1,
+                "score_grehn": 1,
+                "scorers_grehn": [
+                    "B. Geti"
+                ],
+                "scorers_plasil": [
+                    "M. Ohizu"
+                ]
+            },
+            {
+                "matchday": "8",
+                "date": "10/11/2022",
+                "score_plasil": 0,
+                "score_grehn": 1,
+                "scorers_grehn": [
+                    "M. Kashaya"
+                ],
+                "scorers_plasil": []
             }
         ]
     }

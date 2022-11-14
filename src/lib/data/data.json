@@ -108,6 +108,18 @@
                     "P. Chimedza"
                 ],
                 "scorers_plasil": []
+            },
+            {
+                "matchday": "10",
+                "date": "14/11/2022",
+                "score_plasil": 1,
+                "score_grehn": 1,
+                "scorers_grehn": [
+                    "M. Mkanganwi"
+                ],
+                "scorers_plasil": [
+                    "M. Ohizu"
+                ]
             }
         ]
     }

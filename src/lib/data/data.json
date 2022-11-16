@@ -120,6 +120,19 @@
                 "scorers_plasil": [
                     "M. Ohizu"
                 ]
+            },
+            {
+                "matchday": "11",
+                "date": "16/11/2022",
+                "score_plasil": 2,
+                "score_grehn": 1,
+                "scorers_grehn": [
+                    "B. Geti"
+                ],
+                "scorers_plasil": [
+                    "A. Sibanda",
+                    "M. Ohizu"
+                ]
             }
         ]
     }

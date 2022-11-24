@@ -159,6 +159,22 @@
                     "S. Magodora",
                     "M. Ohizu"
                 ]
+            },
+            {
+                "matchday": "14",
+                "date": "24/11/2022",
+                "score_plasil": 1,
+                "score_grehn": 4,
+                "scorers_grehn": [
+                    "B. Passaportis",
+                    "B. Geti",
+                    "B. Geti",
+                    "M. Mkanganwi"
+
+                ],
+                "scorers_plasil": [
+                    "S. Magodora"
+                ]
             }
         ]
     }

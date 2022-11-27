@@ -175,6 +175,19 @@
                 "scorers_plasil": [
                     "S. Magodora"
                 ]
+            },
+            {
+                "matchday": "15",
+                "date": "25/11/2022",
+                "score_plasil": 1,
+                "score_grehn": 4,
+                "scorers_grehn": [
+                    "B. Geti"
+
+                ],
+                "scorers_plasil": [
+                    "A. Sibanda"
+                ]
             }
         ]
     }

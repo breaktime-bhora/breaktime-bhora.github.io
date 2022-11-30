@@ -203,12 +203,20 @@
                 "matchday": "17",
                 "date": "29/11/2022",
                 "score_plasil": 1,
-                "score_grehn": 1,
-                "scorers_grehn": [
-                    "P. Nebarwe"
-                ],
+                "score_grehn": 0,
+                "scorers_grehn": [],
                 "scorers_plasil": [
-                    "A. Sibanda"
+                    "K. Mbendela"
+                ]
+            },
+            {
+                "matchday": "18",
+                "date": "30/11/2022",
+                "score_plasil": 1,
+                "score_grehn": 0,
+                "scorers_grehn": [],
+                "scorers_plasil": [
+                    "M. Ohizu"
                 ]
             }
         ]

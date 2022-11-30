@@ -188,6 +188,28 @@
                 "scorers_plasil": [
                     "A. Sibanda"
                 ]
+            },
+            {
+                "matchday": "16",
+                "date": "28/11/2022",
+                "score_plasil": 1,
+                "score_grehn": 0,
+                "scorers_grehn": [],
+                "scorers_plasil": [
+                    "K. Mbendela"
+                ]
+            },
+            {
+                "matchday": "17",
+                "date": "29/11/2022",
+                "score_plasil": 1,
+                "score_grehn": 1,
+                "scorers_grehn": [
+                    "P. Nebarwe"
+                ],
+                "scorers_plasil": [
+                    "A. Sibanda"
+                ]
             }
         ]
     }

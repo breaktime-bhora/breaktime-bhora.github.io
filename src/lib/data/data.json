@@ -206,23 +206,32 @@
                 "score_grehn": 0,
                 "scorers_grehn": [],
                 "scorers_plasil": [
-                    "K. Mbendela"
+                    "M. Ohizu"
                 ]
             },
             {
                 "matchday": "18",
                 "date": "30/11/2022",
-                "score_plasil": 2,
+                "score_plasil": 1,
                 "score_grehn": 0,
                 "scorers_grehn": [],
                 "scorers_plasil": [
-                    "K. Mbendela",
-                    "M. Ohizu"
+                    "K. Mbendela"
                 ]
             },
             {
                 "matchday": "19",
-                "date": "31/11/2022",
+                "date": "01/12/2022",
+                "score_plasil": 1,
+                "score_grehn": 0,
+                "scorers_grehn": [],
+                "scorers_plasil": [
+                    "K. Mbendela"
+                ]
+            },
+            {
+                "matchday": "20",
+                "date": "02/11/2022",
                 "score_plasil": 1,
                 "score_grehn": 2,
                 "scorers_grehn": [

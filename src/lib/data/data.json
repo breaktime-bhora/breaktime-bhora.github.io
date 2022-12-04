@@ -173,7 +173,7 @@
 
                 ],
                 "scorers_plasil": [
-                    "S. Magodora"
+                    "U. Chimombe"
                 ]
             },
             {
@@ -216,7 +216,20 @@
                 "score_grehn": 0,
                 "scorers_grehn": [],
                 "scorers_plasil": [
-                    "M. Ohizu"
+                    "K. Mbendela"
+                ]
+            },
+            {
+                "matchday": "19",
+                "date": "31/11/2022",
+                "score_plasil": 1,
+                "score_grehn": 2,
+                "scorers_grehn": [
+                    "B. Geti",
+                    "B. Geti"
+                ],
+                "scorers_plasil": [
+                    "K. Mbendela"
                 ]
             }
         ]

@@ -222,7 +222,7 @@
             },
             {
                 "matchday": "19",
-                "date": "01/12/2022",
+                "date": "03/12/2022",
                 "score_plasil": 1,
                 "score_grehn": 0,
                 "scorers_grehn": [],
@@ -232,7 +232,7 @@
             },
             {
                 "matchday": "20",
-                "date": "02/11/2022",
+                "date": "04/11/2022",
                 "score_plasil": 1,
                 "score_grehn": 2,
                 "scorers_grehn": [
@@ -245,13 +245,10 @@
             },
             {
                 "matchday": "21",
-                "date": "03/11/2022",
-                "score_plasil": 1,
-                "score_grehn": 2,
-                "scorers_grehn": [
-                    "A. Muirimi",
-                    "M. Mkanganwi"
-                ],
+                "date": "06/11/2022",
+                "score_plasil": 0,
+                "score_grehn": 0,
+                "scorers_grehn": [],
                 "scorers_plasil": []
             }
         ]

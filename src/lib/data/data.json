@@ -241,6 +241,17 @@
                 "scorers_plasil": [
                     "K. Mbendela"
                 ]
+            },
+            {
+                "matchday": "21",
+                "date": "03/11/2022",
+                "score_plasil": 1,
+                "score_grehn": 2,
+                "scorers_grehn": [
+                    "A. Muirimi",
+                    "M. Mkanganwi"
+                ],
+                "scorers_plasil": []
             }
         ]
     }

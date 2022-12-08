@@ -1,9 +1,5 @@
 <script>
-	import data from "$lib/data/data.json";
-
-	let matches = [... data[0].stats];
-
-	matches.reverse();
+	import { matches } from "$lib/shared/stores/season.js";
 </script>
 
 
@@ -13,8 +9,8 @@
 
 
 <table>
-	<tr><th>Matchday</th><th>Date</th><th>P&B</th><th>G&J</th></tr>
-	{#each matches as match}
-		<tr><td>{match.matchday}</td><td>{match.date}</td><td>{match.score_plasil}</td><td>{match.score_grehn}</td></tr>
+	<tr><th>Date</th><th>P&B</th><th>G&J</th></tr>
+	{#each $matches as match}
+		<tr><td>{match.date}</td><td>{match.score_plasil}</td><td>{match.score_grehn}</td></tr>
 	{/each}
 </table>

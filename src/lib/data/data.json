@@ -1,5 +1,301 @@
 [
     {
+        "season": "Additional Term 2021",
+        "stats": [
+            {
+                "matchday": "1",
+                "date": "31/10/2022",
+                "score_plasil": 1,
+                "score_grehn": 1,
+                "goals": [
+                    "B. Passaportis",
+                    "T. Guviriro"
+                ],
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
+            },
+            {
+                "matchday": "2",
+                "date": "1/11/2022",
+                "score_plasil": 1,
+                "score_grehn": 2,
+                "goals": [
+                    "B. Passaportis",
+                    "T. Owen",
+                    "U. Chimombe"
+                ],
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
+            },
+            {
+                "matchday": "3",
+                "date": "3/11/2022",
+                "score_plasil": 2,
+                "score_grehn": 3,
+                "goals": [
+                    "B. Passaportis",
+                    "B. Passaportis",
+                    "T. Owen",
+                    "P. Mudondo",
+                    "A. Sibanda"
+                ],
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
+            },
+            {
+                "matchday": "4",
+                "date": "4/11/2022",
+                "score_plasil": 2,
+                "score_grehn": 2,
+                "goals": [
+                    "B. Passaportis",
+                    "M. Mkanganwi",
+                    "P. Mudondo",
+                    "U. Chimombe"
+                ],
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
+            },
+            {
+                "matchday": "5",
+                "date": "7/11/2022",
+                "score_plasil": 2,
+                "score_grehn": 0,
+                "goals": [
+                    "A. Sibanda",
+                    "M. Ohizu"
+                ],
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
+            },
+            {
+                "matchday": "6",
+                "date": "8/11/2022",
+                "score_plasil": 2,
+                "score_grehn": 0,
+                "goals": [
+                    "A. Sibanda"
+                ],
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
+            },
+            {
+                "matchday": "7",
+                "date": "9/11/2022",
+                "score_plasil": 1,
+                "score_grehn": 1,
+                "goals": [
+                    "B. Geti",
+                    "M. Ohizu"
+                ],
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
+            },
+            {
+                "matchday": "8",
+                "date": "10/11/2022",
+                "score_plasil": 0,
+                "score_grehn": 1,
+                "goals": [
+                    "M. Kashaya"
+                ],
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
+            },
+            {
+                "matchday": "9",
+                "date": "11/11/2022",
+                "score_plasil": 0,
+                "score_grehn": 1,
+                "goals": [
+                    "P. Chimedza"
+                ],
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
+            },
+            {
+                "matchday": "10",
+                "date": "14/11/2022",
+                "score_plasil": 1,
+                "score_grehn": 1,
+                "goals": [
+                    "M. Mkanganwi",
+                    "M. Ohizu"
+                ],
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
+            },
+            {
+                "matchday": "11",
+                "date": "16/11/2022",
+                "score_plasil": 2,
+                "score_grehn": 1,
+                "goals": [
+                    "B. Geti",
+                    "A. Sibanda",
+                    "M. Ohizu"
+                ],
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
+            },
+            {
+                "matchday": "12",
+                "date": "17/11/2022",
+                "score_plasil": 2,
+                "score_grehn": 1,
+                "goals": [
+                    "B. Geti",
+                    "M. Ohizu",
+                    "M. Ohizu"
+                ],
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
+            },
+            {
+                "matchday": "13",
+                "date": "18/11/2022",
+                "score_plasil": 2,
+                "score_grehn": 1,
+                "goals": [
+                    "M. Mkanganwi",
+                    "S. Magodora",
+                    "M. Ohizu"
+                ],
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
+            },
+            {
+                "matchday": "14",
+                "date": "24/11/2022",
+                "score_plasil": 1,
+                "score_grehn": 4,
+                "goals": [
+                    "B. Passaportis",
+                    "B. Geti",
+                    "B. Geti",
+                    "M. Mkanganwi",
+                    "U. Chimombe"
+                ],
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
+            },
+            {
+                "matchday": "15",
+                "date": "25/11/2022",
+                "score_plasil": 1,
+                "score_grehn": 1,
+                "goals": [
+                    "B. Geti",
+                    "A. Sibanda"
+                ],
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
+            },
+            {
+                "matchday": "16",
+                "date": "28/11/2022",
+                "score_plasil": 2,
+                "score_grehn": 0,
+                "goals": [
+                    "K. Mbendela",
+                    "U. Chimombe"
+                ],
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
+            },
+            {
+                "matchday": "17",
+                "date": "29/11/2022",
+                "score_plasil": 1,
+                "score_grehn": 0,
+                "goals": [
+                    "M. Ohizu"
+                ],
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
+            },
+            {
+                "matchday": "18",
+                "date": "30/11/2022",
+                "score_plasil": 1,
+                "score_grehn": 0,
+                "goals": [
+                    "K. Mbendela"
+                ],
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
+            },
+            {
+                "matchday": "19",
+                "date": "03/12/2022",
+                "score_plasil": 1,
+                "score_grehn": 0,
+                "goals": [
+                    "K. Mbendela"
+                ],
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
+            },
+            {
+                "matchday": "20",
+                "date": "04/11/2022",
+                "score_plasil": 1,
+                "score_grehn": 2,
+                "goals": [
+                    "B. Geti",
+                    "M. Mkanganwi",
+                    "K. Mbendela"
+                ],
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
+            },
+            {
+                "matchday": "21",
+                "date": "06/11/2022",
+                "score_plasil": 0,
+                "score_grehn": 0,
+                "goals": [],
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
+            },
+            {
+                "matchday": "22",
+                "date": "07/11/2022",
+                "score_plasil": 3,
+                "score_grehn": 0,
+                "goals": [
+                    "V. Sherekete",
+                    "P. Mudondo",
+                    "U. Chimombe"
+                ],
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
+            }
+        ]
+    },
+    {
         "season": "3rd Term 2022",
         "stats": [
             {
@@ -11,7 +307,9 @@
                     "A. Sibanda",
                     "B. Passaportis"
                 ],
-                "assists": []
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
             },
             {
                 "matchday": "2",
@@ -25,7 +323,9 @@
                     "U. Chimombe",
                     "B. Hansen"
                 ],
-                "assists": []
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
             },
             {
                 "matchday": "3",
@@ -38,7 +338,9 @@
                     "P. Chimedza",
                     "K. Bhikha"
                 ],
-                "assists": []
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
             },
             {
                 "matchday": "4",
@@ -49,7 +351,9 @@
                     "P. Mudondo",
                     "M. Mkanganwi"
                 ],
-                "assists": []
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
             },
             {
                 "matchday": "5",
@@ -59,7 +363,9 @@
                 "goals": [
                     "A. Sibanda"
                 ],
-                "assists": []
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
             },
             {
                 "matchday": "6",
@@ -69,7 +375,9 @@
                 "goals": [
                     "A. Sibanda"
                 ],
-                "assists": []
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
             },
             {
                 "matchday": "7",
@@ -79,7 +387,9 @@
                 "goals": [
                     "Z. Carnegie"
                 ],
-                "assists": []
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
             },
             {
                 "matchday": "8",
@@ -89,7 +399,9 @@
                 "goals": [
                     "U. Chimombe"
                 ],
-                "assists": []
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
             },
             {
                 "matchday": "9",
@@ -100,7 +412,9 @@
                     "T. Mashoko",
                     "M. Mkanganwi"
                 ],
-                "assists": []
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
             },
             {
                 "matchday": "10",
@@ -111,7 +425,9 @@
                     "M. Ohizu",
                     "P. Mudondo"
                 ],
-                "assists": []
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
             },
             {
                 "matchday": "11",
@@ -121,7 +437,9 @@
                 "goals": [
                     "B. Passaportis"
                 ],
-                "assists": []
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
             },
             {
                 "matchday": "12",
@@ -131,7 +449,9 @@
                 "goals": [
                     "A. Muirimi"
                 ],
-                "assists": []
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
             },
             {
                 "matchday": "13",
@@ -142,7 +462,9 @@
                     "A. Sibanda",
                     "B. Passaportis"
                 ],
-                "assists": []
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
             },
             {
                 "matchday": "14",
@@ -154,7 +476,9 @@
                     "B. Hansen",
                     "B. Passaportis"
                 ],
-                "assists": []
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
             },
             {
                 "matchday": "15",
@@ -165,7 +489,9 @@
                     "L. Taravinga",
                     "A. Muirimi"
                 ],
-                "assists": []
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
             },
             {
                 "matchday": "16",
@@ -173,7 +499,9 @@
                 "score_plasil": 0,
                 "score_grehn": 0,
                 "goals": [],
-                "assists": []
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
             },
             {
                 "matchday": "17",
@@ -185,7 +513,9 @@
                     "A. Sibanda",
                     "A. Muirimi"
                 ],
-                "assists": []
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
             },
             {
                 "matchday": "18",
@@ -196,7 +526,9 @@
                     "M. Ohizu",
                     "A. Sibanda"
                 ],
-                "assists": []
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
             },
             {
                 "matchday": "19",
@@ -212,259 +544,9 @@
                     "A. Muirimi",
                     "M. Mkanganwi"
                 ],
-                "assists": []
-            }
-        ]
-    },
-    {
-        "season": "Additional Term 2021",
-        "stats": [
-            {
-                "matchday": "1",
-                "date": "31/10/2022",
-                "score_plasil": 1,
-                "score_grehn": 1,
-                "goals": [
-                    "B. Passaportis",
-                    "T. Guviriro"
-                ],
-                "assists": []
-            },
-            {
-                "matchday": "2",
-                "date": "1/11/2022",
-                "score_plasil": 1,
-                "score_grehn": 2,
-                "goals": [
-                    "B. Passaportis",
-                    "T. Owen",
-                    "U. Chimombe"
-                ],
-                "assists": []
-            },
-            {
-                "matchday": "3",
-                "date": "3/11/2022",
-                "score_plasil": 2,
-                "score_grehn": 3,
-                "goals": [
-                    "B. Passaportis",
-                    "B. Passaportis",
-                    "T. Owen",
-                    "P. Mudondo",
-                    "A. Sibanda"
-                ],
-                "assists": []
-            },
-            {
-                "matchday": "4",
-                "date": "4/11/2022",
-                "score_plasil": 2,
-                "score_grehn": 2,
-                "goals": [
-                    "B. Passaportis",
-                    "M. Mkanganwi",
-                    "P. Mudondo",
-                    "U. Chimombe"
-                ],
-                "assists": []
-            },
-            {
-                "matchday": "5",
-                "date": "7/11/2022",
-                "score_plasil": 2,
-                "score_grehn": 0,
-                "goals": [
-                    "A. Sibanda",
-                    "M. Ohizu"
-                ],
-                "assists": []
-            },
-            {
-                "matchday": "6",
-                "date": "8/11/2022",
-                "score_plasil": 2,
-                "score_grehn": 0,
-                "goals": [
-                    "A. Sibanda"
-                ],
-                "assists": []
-            },
-            {
-                "matchday": "7",
-                "date": "9/11/2022",
-                "score_plasil": 1,
-                "score_grehn": 1,
-                "goals": [
-                    "B. Geti",
-                    "M. Ohizu"
-                ],
-                "assists": []
-            },
-            {
-                "matchday": "8",
-                "date": "10/11/2022",
-                "score_plasil": 0,
-                "score_grehn": 1,
-                "goals": [
-                    "M. Kashaya"
-                ],
-                "assists": []
-            },
-            {
-                "matchday": "9",
-                "date": "11/11/2022",
-                "score_plasil": 0,
-                "score_grehn": 1,
-                "goals": [
-                    "P. Chimedza"
-                ],
-                "assists": []
-            },
-            {
-                "matchday": "10",
-                "date": "14/11/2022",
-                "score_plasil": 1,
-                "score_grehn": 1,
-                "goals": [
-                    "M. Mkanganwi",
-                    "M. Ohizu"
-                ],
-                "assists": []
-            },
-            {
-                "matchday": "11",
-                "date": "16/11/2022",
-                "score_plasil": 2,
-                "score_grehn": 1,
-                "goals": [
-                    "B. Geti",
-                    "A. Sibanda",
-                    "M. Ohizu"
-                ],
-                "assists": []
-            },
-            {
-                "matchday": "12",
-                "date": "17/11/2022",
-                "score_plasil": 2,
-                "score_grehn": 1,
-                "goals": [
-                    "B. Geti",
-                    "M. Ohizu",
-                    "M. Ohizu"
-                ],
-                "assists": []
-            },
-            {
-                "matchday": "13",
-                "date": "18/11/2022",
-                "score_plasil": 2,
-                "score_grehn": 1,
-                "goals": [
-                    "M. Mkanganwi",
-                    "S. Magodora",
-                    "M. Ohizu"
-                ],
-                "assists": []
-            },
-            {
-                "matchday": "14",
-                "date": "24/11/2022",
-                "score_plasil": 1,
-                "score_grehn": 4,
-                "goals": [
-                    "B. Passaportis",
-                    "B. Geti",
-                    "B. Geti",
-                    "M. Mkanganwi",
-                    "U. Chimombe"
-                ],
-                "assists": []
-            },
-            {
-                "matchday": "15",
-                "date": "25/11/2022",
-                "score_plasil": 1,
-                "score_grehn": 1,
-                "goals": [
-                    "B. Geti",
-                    "A. Sibanda"
-                ],
-                "assists": []
-            },
-            {
-                "matchday": "16",
-                "date": "28/11/2022",
-                "score_plasil": 2,
-                "score_grehn": 0,
-                "goals": [
-                    "K. Mbendela",
-                    "U. Chimombe"
-                ],
-                "assists": []
-            },
-            {
-                "matchday": "17",
-                "date": "29/11/2022",
-                "score_plasil": 1,
-                "score_grehn": 0,
-                "goals": [
-                    "M. Ohizu"
-                ],
-                "assists": []
-            },
-            {
-                "matchday": "18",
-                "date": "30/11/2022",
-                "score_plasil": 1,
-                "score_grehn": 0,
-                "goals": [
-                    "K. Mbendela"
-                ],
-                "assists": []
-            },
-            {
-                "matchday": "19",
-                "date": "03/12/2022",
-                "score_plasil": 1,
-                "score_grehn": 0,
-                "goals": [
-                    "K. Mbendela"
-                ],
-                "assists": []
-            },
-            {
-                "matchday": "20",
-                "date": "04/11/2022",
-                "score_plasil": 1,
-                "score_grehn": 2,
-                "goals": [
-                    "B. Geti",
-                    "M. Mkanganwi",
-                    "K. Mbendela"
-                ],
-                "assists": []
-            },
-            {
-                "matchday": "21",
-                "date": "06/11/2022",
-                "score_plasil": 0,
-                "score_grehn": 0,
-                "goals": [],
-                "assists": []
-            },
-            {
-                "matchday": "22",
-                "date": "07/11/2022",
-                "score_plasil": 3,
-                "score_grehn": 0,
-                "goals": [
-                    "V. Sherekete",
-                    "P. Mudondo",
-                    "U. Chimombe"
-                ],
-                "assists": []
+                "assists": [],
+                "clean_sheets": [],
+                "motm": ""
             }
         ]
     }

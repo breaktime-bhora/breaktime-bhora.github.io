@@ -6,6 +6,8 @@ export const teams = writable();
 export const form = writable();
 export const goalscorers = writable();
 export const assistants = writable();
+export const goalkeepers = writable();
+export const motm = writable();
 export const matches = writable();
 
 let selected = data;
@@ -115,6 +117,50 @@ season.subscribe((value) => {
 	});
 
 	assistants.set(sortObject(helpers));
+
+	//
+    // MOTM
+    //
+
+    function sortObject(obj) {
+		return Object.entries(obj).sort((a, b) => b[1] - a[1])
+	}
+
+	let mvp = {}
+
+	selected[current].stats.forEach((node) => {
+		if (node.motm != "") {
+			if (node.motm in mvp) {
+				mvp[node.motm] += 1;
+			} else {
+				mvp[node.motm] = 1;
+			}
+		}
+	});
+
+	motm.set(sortObject(mvp));
+
+	//
+    // Clean Sheets
+    //
+
+    function sortObject(obj) {
+		return Object.entries(obj).sort((a, b) => b[1] - a[1])
+	}
+
+	let keepers = {}
+
+	selected[current].stats.forEach((node) => {
+		node.assists.forEach((keeper) => {
+			if (keeper in keepers) {
+				keepers[keeper] += 1
+			} else {
+				keepers[keeper] = 1
+			}
+		});
+	});
+
+	goalkeepers.set(sortObject(keepers));
 
     //
     // Matches

@@ -5,6 +5,7 @@ export const season = writable("1");
 export const teams = writable();
 export const form = writable();
 export const goalscorers = writable();
+export const assistants = writable();
 export const matches = writable();
 
 let selected = data;
@@ -82,15 +83,7 @@ season.subscribe((value) => {
 	let scorers = {}
 
 	selected[current].stats.forEach((node) => {
-		node.scorers_plasil.forEach((scorer) => {
-			if (scorer in scorers) {
-				scorers[scorer] += 1
-			} else {
-				scorers[scorer] = 1
-			}
-		});
-
-		node.scorers_grehn.forEach((scorer) => {
+		node.goals.forEach((scorer) => {
 			if (scorer in scorers) {
 				scorers[scorer] += 1
 			} else {
@@ -100,6 +93,28 @@ season.subscribe((value) => {
 	});
 
 	goalscorers.set(sortObject(scorers));
+
+	//
+    // Assists
+    //
+
+    function sortObject(obj) {
+		return Object.entries(obj).sort((a, b) => b[1] - a[1])
+	}
+
+	let helpers = {}
+
+	selected[current].stats.forEach((node) => {
+		node.assists.forEach((helper) => {
+			if (helper in helpers) {
+				helpers[helper] += 1
+			} else {
+				helpers[helper] = 1
+			}
+		});
+	});
+
+	assistants.set(sortObject(helpers));
 
     //
     // Matches

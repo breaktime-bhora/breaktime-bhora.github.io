@@ -8,6 +8,7 @@
 		<li class="branding mobile"><b>B</b>B</li>
 		<li class:active={$page.url.pathname === '/'}><a href="/" preload="true">Tables</a></li>
 		<li class:active={$page.url.pathname === '/goals'}><a href="/goals" preload="true">Goals</a></li>
+		<li class:active={$page.url.pathname === '/assists'}><a href="/assists" preload="true">Assists</a></li>
 		<li class:active={$page.url.pathname === '/results'}><a href="/results" preload="true">Results</a></li>
 	</ul>
 </div>

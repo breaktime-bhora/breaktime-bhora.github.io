@@ -8,6 +8,7 @@
 	let pages = {
 		"/results": "Results",
 		"/goals": "Goals",
+		"/assists": "Assists",
 		"/": "Tables"
 	}
 

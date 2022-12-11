@@ -7,222 +7,212 @@
                 "date": "06/09/2022",
                 "score_plasil": 1,
                 "score_grehn": 1,
-                "scorers_plasil": [
-                    "A. Sibanda"
-                ],
-                "scorers_grehn": [
+                "goals": [
+                    "A. Sibanda",
                     "B. Passaportis"
-                ]
+                ],
+                "assists": []
             },
             {
                 "matchday": "2",
                 "date": "07/09/2022",
                 "score_plasil": 4,
                 "score_grehn": 1,
-                "scorers_plasil": [
+                "goals": [
                     "A. Sibanda",
                     "S. Magodora",
                     "P. Mudondo",
-                    "U. Chimombe"
-                ],
-                "scorers_grehn": [
+                    "U. Chimombe",
                     "B. Hansen"
-                ]
+                ],
+                "assists": []
             },
             {
                 "matchday": "3",
                 "date": "08/09/2022",
                 "score_plasil": 1,
                 "score_grehn": 3,
-                "scorers_plasil": [
-                    "S. Magodora"
-                ],
-                "scorers_grehn": [
+                "goals": [
+                    "S. Magodora",
                     "B. Hansen",
                     "P. Chimedza",
                     "K. Bhikha"
-                ]
+                ],
+                "assists": []
             },
             {
                 "matchday": "4",
                 "date": "09/09/2022",
                 "score_plasil": 1,
                 "score_grehn": 1,
-                "scorers_plasil": [
-                    "P. Mudondo"
-                ],
-                "scorers_grehn": [
+                "goals": [
+                    "P. Mudondo",
                     "M. Mkanganwi"
-                ]
+                ],
+                "assists": []
             },
             {
                 "matchday": "5",
                 "date": "12/09/2022",
                 "score_plasil": 1,
                 "score_grehn": 0,
-                "scorers_plasil": [
+                "goals": [
                     "A. Sibanda"
                 ],
-                "scorers_grehn": []
+                "assists": []
             },
             {
                 "matchday": "6",
                 "date": "13/09/2022",
                 "score_plasil": 1,
                 "score_grehn": 0,
-                "scorers_plasil": [
+                "goals": [
                     "A. Sibanda"
                 ],
-                "scorers_grehn": []
+                "assists": []
             },
             {
                 "matchday": "7",
                 "date": "15/09/2022",
                 "score_plasil": 0,
                 "score_grehn": 1,
-                "scorers_plasil": [],
-                "scorers_grehn": [
+                "goals": [
                     "Z. Carnegie"
-                ]
+                ],
+                "assists": []
             },
             {
                 "matchday": "8",
                 "date": "16/09/2022",
                 "score_plasil": 1,
                 "score_grehn": 0,
-                "scorers_plasil": [
+                "goals": [
                     "U. Chimombe"
                 ],
-                "scorers_grehn": []
+                "assists": []
             },
             {
                 "matchday": "9",
                 "date": "19/09/2022",
                 "score_plasil": 1,
                 "score_grehn": 1,
-                "scorers_plasil": [
-                    "T. Mashoko"
-                ],
-                "scorers_grehn": [
+                "goals": [
+                    "T. Mashoko",
                     "M. Mkanganwi"
-                ]
+                ],
+                "assists": []
             },
             {
                 "matchday": "10",
                 "date": "20/09/2022",
                 "score_plasil": 2,
                 "score_grehn": 0,
-                "scorers_plasil": [
+                "goals": [
                     "M. Ohizu",
                     "P. Mudondo"
                 ],
-                "scorers_grehn": []
+                "assists": []
             },
             {
                 "matchday": "11",
                 "date": "21/09/2022",
                 "score_plasil": 0,
                 "score_grehn": 1,
-                "scorers_plasil": [],
-                "scorers_grehn": [
+                "goals": [
                     "B. Passaportis"
-                ]
+                ],
+                "assists": []
             },
             {
                 "matchday": "12",
                 "date": "23/09/2022",
                 "score_plasil": 0,
                 "score_grehn": 1,
-                "scorers_plasil": [],
-                "scorers_grehn": [
+                "goals": [
                     "A. Muirimi"
-                ]
+                ],
+                "assists": []
             },
             {
                 "matchday": "13",
                 "date": "26/09/2022",
                 "score_plasil": 1,
                 "score_grehn": 1,
-                "scorers_plasil": [
-                    "A. Sibanda"
-                ],
-                "scorers_grehn": [
+                "goals": [
+                    "A. Sibanda",
                     "B. Passaportis"
-                ]
+                ],
+                "assists": []
             },
             {
                 "matchday": "14",
                 "date": "27/09/2022",
                 "score_plasil": 1,
                 "score_grehn": 2,
-                "scorers_plasil": [
-                    "U. Chimombe"
-                ],
-                "scorers_grehn": [
+                "goals": [
+                    "U. Chimombe",
                     "B. Hansen",
                     "B. Passaportis"
-                ]
+                ],
+                "assists": []
             },
             {
                 "matchday": "15",
                 "date": "28/09/2022",
                 "score_plasil": 1,
                 "score_grehn": 1,
-                "scorers_plasil": [
-                    "L. Taravinga"
-                ],
-                "scorers_grehn": [
+                "goals": [
+                    "L. Taravinga",
                     "A. Muirimi"
-                ]
+                ],
+                "assists": []
             },
             {
                 "matchday": "16",
                 "date": "29/09/2022",
                 "score_plasil": 0,
                 "score_grehn": 0,
-                "scorers_plasil": [],
-                "scorers_grehn": []
+                "goals": [],
+                "assists": []
             },
             {
                 "matchday": "17",
                 "date": "30/09/2022",
                 "score_plasil": 2,
                 "score_grehn": 1,
-                "scorers_plasil": [
+                "goals": [
                     "T. Guviriro",
-                    "A. Sibanda"
-                ],
-                "scorers_grehn": [
+                    "A. Sibanda",
                     "A. Muirimi"
-                ]
+                ],
+                "assists": []
             },
             {
                 "matchday": "18",
                 "date": "03/10/2022",
                 "score_plasil": 2,
                 "score_grehn": 0,
-                "scorers_plasil": [
+                "goals": [
                     "M. Ohizu",
                     "A. Sibanda"
                 ],
-                "scorers_grehn": []
+                "assists": []
             },
             {
                 "matchday": "19",
                 "date": "04/10/2022",
                 "score_plasil": 2,
                 "score_grehn": 5,
-                "scorers_plasil": [
+                "goals": [
                     "U. Chimombe",
-                    "L. Taravinga"
-                ],
-                "scorers_grehn": [
+                    "L. Taravinga",
                     "Z. Carnegie",
                     "P. Nebarwe",
                     "B. Hansen",
                     "A. Muirimi",
                     "M. Mkanganwi"
-                ]
+                ],
+                "assists": []
             }
         ]
     },
@@ -234,261 +224,247 @@
                 "date": "31/10/2022",
                 "score_plasil": 1,
                 "score_grehn": 1,
-                "scorers_grehn": [
-                    "B. Passaportis"
-                ],
-                "scorers_plasil": [
+                "goals": [
+                    "B. Passaportis",
                     "T. Guviriro"
-                ]
+                ],
+                "assists": []
             },
             {
                 "matchday": "2",
                 "date": "1/11/2022",
                 "score_plasil": 1,
                 "score_grehn": 2,
-                "scorers_grehn": [
+                "goals": [
                     "B. Passaportis",
-                    "T. Owen"
-                ],
-                "scorers_plasil": [
+                    "T. Owen",
                     "U. Chimombe"
-                ]
+                ],
+                "assists": []
             },
             {
                 "matchday": "3",
                 "date": "3/11/2022",
                 "score_plasil": 2,
                 "score_grehn": 3,
-                "scorers_grehn": [
+                "goals": [
                     "B. Passaportis",
                     "B. Passaportis",
-                    "T. Owen"
-                ],
-                "scorers_plasil": [
+                    "T. Owen",
                     "P. Mudondo",
                     "A. Sibanda"
-                ]
+                ],
+                "assists": []
             },
             {
                 "matchday": "4",
                 "date": "4/11/2022",
                 "score_plasil": 2,
                 "score_grehn": 2,
-                "scorers_grehn": [
+                "goals": [
                     "B. Passaportis",
-                    "M. Mkanganwi"
-                ],
-                "scorers_plasil": [
+                    "M. Mkanganwi",
                     "P. Mudondo",
                     "U. Chimombe"
-                ]
+                ],
+                "assists": []
             },
             {
                 "matchday": "5",
                 "date": "7/11/2022",
                 "score_plasil": 2,
                 "score_grehn": 0,
-                "scorers_grehn": [],
-                "scorers_plasil": [
+                "goals": [
                     "A. Sibanda",
                     "M. Ohizu"
-                ]
+                ],
+                "assists": []
             },
             {
                 "matchday": "6",
                 "date": "8/11/2022",
                 "score_plasil": 2,
                 "score_grehn": 0,
-                "scorers_grehn": [],
-                "scorers_plasil": [
+                "goals": [
                     "A. Sibanda"
-                ]
+                ],
+                "assists": []
             },
             {
                 "matchday": "7",
                 "date": "9/11/2022",
                 "score_plasil": 1,
                 "score_grehn": 1,
-                "scorers_grehn": [
-                    "B. Geti"
-                ],
-                "scorers_plasil": [
+                "goals": [
+                    "B. Geti",
                     "M. Ohizu"
-                ]
+                ],
+                "assists": []
             },
             {
                 "matchday": "8",
                 "date": "10/11/2022",
                 "score_plasil": 0,
                 "score_grehn": 1,
-                "scorers_grehn": [
+                "goals": [
                     "M. Kashaya"
                 ],
-                "scorers_plasil": []
+                "assists": []
             },
             {
                 "matchday": "9",
                 "date": "11/11/2022",
                 "score_plasil": 0,
                 "score_grehn": 1,
-                "scorers_grehn": [
+                "goals": [
                     "P. Chimedza"
                 ],
-                "scorers_plasil": []
+                "assists": []
             },
             {
                 "matchday": "10",
                 "date": "14/11/2022",
                 "score_plasil": 1,
                 "score_grehn": 1,
-                "scorers_grehn": [
-                    "M. Mkanganwi"
-                ],
-                "scorers_plasil": [
+                "goals": [
+                    "M. Mkanganwi",
                     "M. Ohizu"
-                ]
+                ],
+                "assists": []
             },
             {
                 "matchday": "11",
                 "date": "16/11/2022",
                 "score_plasil": 2,
                 "score_grehn": 1,
-                "scorers_grehn": [
-                    "B. Geti"
-                ],
-                "scorers_plasil": [
+                "goals": [
+                    "B. Geti",
                     "A. Sibanda",
                     "M. Ohizu"
-                ]
+                ],
+                "assists": []
             },
             {
                 "matchday": "12",
                 "date": "17/11/2022",
                 "score_plasil": 2,
                 "score_grehn": 1,
-                "scorers_grehn": [
-                    "B. Geti"
-                ],
-                "scorers_plasil": [
+                "goals": [
+                    "B. Geti",
                     "M. Ohizu",
                     "M. Ohizu"
-                ]
+                ],
+                "assists": []
             },
             {
                 "matchday": "13",
                 "date": "18/11/2022",
                 "score_plasil": 2,
                 "score_grehn": 1,
-                "scorers_grehn": [
-                    "M. Mkanganwi"
-                ],
-                "scorers_plasil": [
+                "goals": [
+                    "M. Mkanganwi",
                     "S. Magodora",
                     "M. Ohizu"
-                ]
+                ],
+                "assists": []
             },
             {
                 "matchday": "14",
                 "date": "24/11/2022",
                 "score_plasil": 1,
                 "score_grehn": 4,
-                "scorers_grehn": [
+                "goals": [
                     "B. Passaportis",
                     "B. Geti",
                     "B. Geti",
-                    "M. Mkanganwi"
-
-                ],
-                "scorers_plasil": [
+                    "M. Mkanganwi",
                     "U. Chimombe"
-                ]
+                ],
+                "assists": []
             },
             {
                 "matchday": "15",
                 "date": "25/11/2022",
                 "score_plasil": 1,
                 "score_grehn": 1,
-                "scorers_grehn": [
-                    "B. Geti"
-
-                ],
-                "scorers_plasil": [
+                "goals": [
+                    "B. Geti",
                     "A. Sibanda"
-                ]
+                ],
+                "assists": []
             },
             {
                 "matchday": "16",
                 "date": "28/11/2022",
                 "score_plasil": 2,
                 "score_grehn": 0,
-                "scorers_grehn": [],
-                "scorers_plasil": [
+                "goals": [
                     "K. Mbendela",
                     "U. Chimombe"
-                ]
+                ],
+                "assists": []
             },
             {
                 "matchday": "17",
                 "date": "29/11/2022",
                 "score_plasil": 1,
                 "score_grehn": 0,
-                "scorers_grehn": [],
-                "scorers_plasil": [
+                "goals": [
                     "M. Ohizu"
-                ]
+                ],
+                "assists": []
             },
             {
                 "matchday": "18",
                 "date": "30/11/2022",
                 "score_plasil": 1,
                 "score_grehn": 0,
-                "scorers_grehn": [],
-                "scorers_plasil": [
+                "goals": [
                     "K. Mbendela"
-                ]
+                ],
+                "assists": []
             },
             {
                 "matchday": "19",
                 "date": "03/12/2022",
                 "score_plasil": 1,
                 "score_grehn": 0,
-                "scorers_grehn": [],
-                "scorers_plasil": [
+                "goals": [
                     "K. Mbendela"
-                ]
+                ],
+                "assists": []
             },
             {
                 "matchday": "20",
                 "date": "04/11/2022",
                 "score_plasil": 1,
                 "score_grehn": 2,
-                "scorers_grehn": [
+                "goals": [
                     "B. Geti",
-                    "M. Mkanganwi"
-                ],
-                "scorers_plasil": [
+                    "M. Mkanganwi",
                     "K. Mbendela"
-                ]
+                ],
+                "assists": []
             },
             {
                 "matchday": "21",
                 "date": "06/11/2022",
                 "score_plasil": 0,
                 "score_grehn": 0,
-                "scorers_grehn": [],
-                "scorers_plasil": []
+                "goals": [],
+                "assists": []
             },
             {
                 "matchday": "22",
                 "date": "07/11/2022",
                 "score_plasil": 3,
                 "score_grehn": 0,
-                "scorers_grehn": [],
-                "scorers_plasil": [
+                "goals": [
                     "V. Sherekete",
                     "P. Mudondo",
                     "U. Chimombe"
-                ]
+                ],
+                "assists": []
             }
         ]
     }

@@ -1,7 +1,7 @@
 import data from "$lib/data/data.json";
-import { get, writable } from 'svelte/store';
+import { writable } from 'svelte/store';
 
-export const season = writable("1");
+export const season = writable("0");
 export const teams = writable();
 export const form = writable();
 export const recent = writable()
@@ -13,12 +13,14 @@ export const matches = writable();
 
 let selected = data;
 
+recent.set([... selected[0].stats].slice(-1));
+
 
 season.subscribe((value) => {
     let current = value;
 
     if (isNaN(current)) {
-        selected = [{ "season": "All Time", "stats": data.map(({ stats }) => stats).flat() }];
+        selected = [{ "season": "All Time", "stats": [... data].reverse().map(({ stats }) => stats).flat() }];
         current = 0;
     } else {
         current = parseInt(value);
@@ -26,7 +28,6 @@ season.subscribe((value) => {
     }
 
     form.set([... selected[current].stats].slice(-5));
-	recent.set([... selected[0].stats].slice(-1));
 
 	function generateTeam(name) {
 		return {

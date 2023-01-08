@@ -1,48 +1,73 @@
 <script>
-    export let plasil;
-    export let grehn;
+    export let data;
     export let team;
 
-    let symbol;
-    let background = "#dddddd";
-
-    if (plasil > grehn) {
-        if (team == "P&B") {
-            symbol = "W";
-            background = "#01dfb6";
+    function background(plasil, grehn, team) {
+        if (plasil > grehn) {
+            if (team == "P&B") {
+                return "#01dfb6";
+                
+            } else {
+                return "#ff6b80";
+            }
+            
+        } else if (plasil == grehn) {
+            return "#dddddd";
+            
         } else {
-            symbol = "L";
-            background = "#ff6b80";
+            if (team == "P&B") {
+                return "#ff6b80";
+                
+            } else {
+                return "#01dfb6";     
+            }
         }
-        
-    } else if (plasil == grehn) {
-        symbol = "D";
-    } else {
-        if (team == "P&B") {
-            symbol = "L";
-            background = "#ff6b80";
+    }
+    
+    function symbol(plasil, grehn, team) {
+        if (plasil > grehn) {
+            if (team == "P&B") {
+                return "W";
+                
+            } else {
+                return "L";
+            }
+            
+        } else if (plasil == grehn) {
+            return "D";
+            
         } else {
-            symbol = "W";
-            background = "#01dfb6";
+            if (team == "P&B") {
+                return "L";
+                
+            } else {
+                return "W";     
+            }
         }
     }
 </script>
 
-<div class="formButton" style="background-color: {background}">
-    <p>{symbol}</p>
+<div class="form">
+    {#each data as match}
+        <div class="formButton" style="background-color: {background(match.score_plasil, match.score_grehn, team)}">
+            <p>{symbol(match.score_plasil, match.score_grehn, team)}</p>
+        </div>
+    {/each}
 </div>
+
+
 
 <style>
     .formButton {
         padding: 0;
         margin: 0;
-        margin-right: 5px;
         width: 2em;
         height: 2em;
         border-radius: 1em;
         display: inline-flex;
         justify-content: center;
         align-items: center;
+        margin-right: 5px;
     }
 
     p {
@@ -50,5 +75,9 @@
         margin: 0;
         font-size: 0.8em;
         font-weight: bold;
+    }
+
+    .form .formButton:last-child {
+        margin-right: 0;
     }
 </style>

@@ -4,6 +4,7 @@ import { get, writable } from 'svelte/store';
 export const season = writable("1");
 export const teams = writable();
 export const form = writable();
+export const recent = writable()
 export const goalscorers = writable();
 export const assistants = writable();
 export const goalkeepers = writable();
@@ -25,6 +26,7 @@ season.subscribe((value) => {
     }
 
     form.set([... selected[current].stats].slice(-5));
+	recent.set([... selected[0].stats].slice(-1));
 
 	function generateTeam(name) {
 		return {

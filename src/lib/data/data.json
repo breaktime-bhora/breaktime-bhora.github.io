@@ -1,5 +1,23 @@
 [
     {
+        "season": "1st Term 2023",
+        "stats": [
+            {
+                "matchday": "1",
+                "date": "11/01/2022",
+                "score_plasil": 2,
+                "score_grehn": 0,
+                "goals": [
+                    "A. Sibanda",
+                    "K. Bhikha"
+                ],
+                "assists": [],
+                "clean_sheets": [],
+                "motm": "A. Sibanda"
+            }
+        ]
+    },
+    {
         "season": "Additional Term 2021",
         "stats": [
             {

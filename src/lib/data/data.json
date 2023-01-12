@@ -5,14 +5,18 @@
             {
                 "matchday": "1",
                 "date": "12/01/2023",
-                "score_plasil": 0,
+                "score_plasil": 1,
                 "score_grehn": 0,
                 "goals": [
-                    
+                    "U. Chimombe"
                 ],
-                "assists": [],
-                "clean_sheets": [],
-                "motm": ""
+                "assists": [
+                    "M. Ohizu"
+                ],
+                "clean_sheets": [
+                    "S. Kundra"
+                ],
+                "motm": "M. Ohizu"
             }
         ]
     },

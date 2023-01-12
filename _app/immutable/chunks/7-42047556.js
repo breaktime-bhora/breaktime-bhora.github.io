@@ -1,0 +1,1 @@
+import{default as t}from"../components/pages/results/_page.svelte-80ea4e9b.js";export{t as component};

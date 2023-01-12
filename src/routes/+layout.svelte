@@ -28,7 +28,7 @@
 			value = { {value: "0"} }
 			items = {[
 				{ value: "all", label: "All Time" },
-				{ value: "0", label: "1st Term 2023" }
+				{ value: "0", label: "1st Term 2023" },
 				{ value: "1", label: "Additional Term 2022" },
 				{ value: "2", label: "3rd Term 2022" },
 			]}

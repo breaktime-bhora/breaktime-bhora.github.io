@@ -17,6 +17,26 @@
                     "S. Kundra"
                 ],
                 "motm": "M. Ohizu"
+            },
+            {
+                "matchday": "2",
+                "date": "13/01/2023",
+                "score_plasil": 4,
+                "score_grehn": 1,
+                "goals": [
+                    "M. Ohizu",
+                    "M. Ohizu",
+                    "A. Sibanda",
+                    "A. Sibanda",
+                    "K. Gurupira"
+                ],
+                "assists": [
+                    "U. Chimombe",
+                    "U. Chimombe",
+                    "M. Ohizu"
+                ],
+                "clean_sheets": [],
+                "motm": "A. Sibanda"
             }
         ]
     },

@@ -154,7 +154,7 @@ season.subscribe((value) => {
 	let keepers = {}
 
 	selected[current].stats.forEach((node) => {
-		node.assists.forEach((keeper) => {
+		node.clean_sheets.forEach((keeper) => {
 			if (keeper in keepers) {
 				keepers[keeper] += 1
 			} else {

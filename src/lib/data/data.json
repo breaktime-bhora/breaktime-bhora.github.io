@@ -36,6 +36,19 @@
                 ],
                 "clean_sheets": [],
                 "motm": "A. Sibanda"
+            },
+            {
+                "matchday": "3",
+                "date": "17/01/2023",
+                "score_plasil": 0,
+                "score_grehn": 0,
+                "goals": [],
+                "assists": [],
+                "clean_sheets": [
+                    "S. Kundra",
+                    "D. Mliswa"
+                ],
+                "motm": "B. Passaportis"
             }
         ]
     },

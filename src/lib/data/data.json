@@ -49,6 +49,25 @@
                     "D. Mliswa"
                 ],
                 "motm": "B. Passaportis"
+            },
+            {
+                "matchday": "4",
+                "date": "18/01/2023",
+                "score_plasil": 2,
+                "score_grehn": 2,
+                "goals": [
+                    "B. Geti",
+                    "B. Geti",
+                    "P. Mudondo",
+                    "M. Ohizu"
+                ],
+                "assists": [
+                    "B. Passaportis",
+                    "B. Passaportis",
+                    "A. Sibanda"
+                ],
+                "clean_sheets": [],
+                "motm": "M. Ohizu"
             }
         ]
     },

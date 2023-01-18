@@ -2,6 +2,7 @@ import data from "$lib/data/data.json";
 import { writable } from 'svelte/store';
 
 export const season = writable("0");
+export const stats = writable("goals");
 export const teams = writable();
 export const form = writable();
 export const recent = writable()

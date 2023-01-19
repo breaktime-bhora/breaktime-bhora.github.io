@@ -7,10 +7,6 @@
 
 	let pages = {
 		"/results": "Results",
-		"/goals": "Goals",
-		"/assists": "Assists",
-		"/clean-sheets": "Clean Sheets",
-		"/motm": "Man Of The Match",
 		"/stats": "Stats",
 		"/": "Tables"
 	}

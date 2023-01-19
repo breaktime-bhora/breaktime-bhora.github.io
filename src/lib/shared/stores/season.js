@@ -11,6 +11,8 @@ export const assistants = writable();
 export const goalkeepers = writable();
 export const motm = writable();
 export const matches = writable();
+export const penalties = writable();
+export const involvements = writable();
 
 let selected = data;
 
@@ -123,12 +125,33 @@ season.subscribe((value) => {
 	assistants.set(sortObject(helpers));
 
 	//
+	// Goal Involvements
+	//
+
+	let ga = {};
+
+	selected[current].stats.forEach((node) => {
+		node.goals.forEach((player) => {
+			if (player in ga) {
+				ga[player] += 1
+			} else {
+				ga[player] = 1
+			}
+		});
+		node.assists.forEach((player) => {
+			if (player in ga) {
+				ga[player] += 1
+			} else {
+				ga[player] = 1
+			}
+		});
+	});
+
+	involvements.set()
+
+	//
     // MOTM
     //
-
-    function sortObject(obj) {
-		return Object.entries(obj).sort((a, b) => b[1] - a[1])
-	}
 
 	let mvp = {}
 
@@ -148,10 +171,6 @@ season.subscribe((value) => {
     // Clean Sheets
     //
 
-    function sortObject(obj) {
-		return Object.entries(obj).sort((a, b) => b[1] - a[1])
-	}
-
 	let keepers = {}
 
 	selected[current].stats.forEach((node) => {
@@ -165,6 +184,24 @@ season.subscribe((value) => {
 	});
 
 	goalkeepers.set(sortObject(keepers));
+
+	//
+	// Penalties Saved
+	//
+
+	keepers = {}
+
+	selected[current].stats.forEach((node) => {
+		node.penalties_saved.forEach((keeper) => {
+			if (keeper in keepers) {
+				keepers[keeper] += 1
+			} else {
+				keepers[keeper] = 1
+			}
+		});
+	});
+
+	penalties.set(sortObject(keepers));
 
     //
     // Matches

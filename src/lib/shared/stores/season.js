@@ -147,7 +147,7 @@ season.subscribe((value) => {
 		});
 	});
 
-	involvements.set()
+	involvements.set(sortObject(ga));
 
 	//
     // MOTM

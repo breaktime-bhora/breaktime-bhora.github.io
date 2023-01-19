@@ -7,15 +7,6 @@
 	function handleChange(event) {
 		stats.set(event.detail.value);
 	}
-
-	let format = {
-		"motm": "Man Of The Match",
-		"goals": "Goals",
-		"assists": "Assists",
-		"goal-involvements": "Goal Involvements",
-		"clean-sheets": "Clean Sheets",
-		"penalties-saved": "Penalties Saved"
-	}
 </script>
 
 <svelte:head>

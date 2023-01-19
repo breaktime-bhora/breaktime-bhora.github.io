@@ -47,7 +47,7 @@
 			<tr><td>{player[0]}</td><td>{player[1]}</td></tr>
 		{/each}
 	</table>
-{:else if $stats == "involvements"} 
+{:else if $stats == "goal-involvements"} 
 	<table>
 		<tr><th>Player</th><th>Goal Involvements</th></tr>
 		{#each $involvements as player}

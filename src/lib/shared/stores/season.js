@@ -2,6 +2,7 @@ import data from "$lib/data/data.json";
 import { writable } from 'svelte/store';
 
 export const season = writable("0");
+export const current_data = writable();
 export const stats = writable("goals");
 export const teams = writable();
 export const form = writable();
@@ -29,6 +30,8 @@ season.subscribe((value) => {
         current = parseInt(value);
         selected = data;
     }
+
+	current_data.set(selected[current]);
 
     form.set([... selected[current].stats].slice(-5));
 

@@ -18,6 +18,7 @@
 		<h2>Display: </h2>
 	</div>
 	<Select
+		searchable={false}
 		--listMaxHeight="400px"
 		value = { {value: "goals"} }
 		items = {[
@@ -81,11 +82,12 @@
 	h2 {
 		margin-top: 0;
 		margin-bottom: 0;
+		font-weight: 400;
 	}
 	.header {
 		display: grid;
 		width: 100%;
-		grid-template-columns: 90px auto;
+		grid-template-columns: 80px auto;
 		grid-template-rows: 100%;
 		padding: 1em 0;
 	}

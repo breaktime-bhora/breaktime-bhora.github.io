@@ -71,9 +71,26 @@
                 ],
                 "clean_sheets": [],
                 "penalties_saved": [
-                    "B.Passaportis"
+                    "B. Passaportis"
                 ],
                 "motm": "B. Passaportis"
+            },
+            {
+                "matchday": "5",
+                "date": "20/01/2023",
+                "score_plasil": 2,
+                "score_grehn": 0,
+                "goals": [
+                    "K. Mbendela",
+                    "U. Chimombe"
+                ],
+                "assists": [
+                    "T.Guviriro",
+                    "A. SIbanda"
+                ],
+                "clean_sheets": [],
+                "penalties_saved": [],
+                "motm": "K. Mbendela"
             }
         ]
     },

@@ -8,6 +8,7 @@
 	let pages = {
 		"/results": "Results",
 		"/stats": "Stats",
+		"/comparison": "Comparison",
 		"/": "Tables"
 	}
 
@@ -22,6 +23,7 @@
 	<div class="main">
 		<h1>{pages[$page.url.pathname]}</h1>
 		<Select
+			searchable={false}
 			value = { {value: "0"} }
 			items = {[
 				{ value: "all", label: "All Time" },

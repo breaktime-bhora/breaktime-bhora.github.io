@@ -18,6 +18,7 @@
 		<li class="branding mobile"><b>B</b>B</li>
 		<li class:active={$page.url.pathname === '/'}><a on:click={reset} href="/" preload="true">Tables</a></li>
 		<li class:active={$page.url.pathname === '/stats'}><a on:click={reset} href="/stats" preload="true">Stats</a></li>
+		<li class:active={$page.url.pathname === '/comparison'}><a on:click={reset} href="/comparison" preload="true">Comparison</a></li>
 		<li class:active={$page.url.pathname === '/results'}><a on:click={reset} href="/results" preload="true">Results</a></li>
 	</ul>
 </div>

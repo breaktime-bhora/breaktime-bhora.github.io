@@ -94,6 +94,27 @@
                 ],
                 "penalties_saved": [],
                 "motm": "K. Mbendela"
+            },
+            {
+                "matchday": "6",
+                "date": "24/01/2023",
+                "score_plasil": 3,
+                "score_grehn": 3,
+                "goals": [
+                    "A. Sibanda",
+                    "M. Ohizu",
+                    "U. Chimombe",
+                    "S. Magodora",
+                    "M. Mkanganwi"
+                ],
+                "assists": [
+                    "M. Ohizu",
+                    "P. Mudondo",
+                    "M. Mkanganwi"
+                ],
+                "clean_sheets": [],
+                "penalties_saved": [],
+                "motm": "M. Ohizu"
             }
         ]
     },

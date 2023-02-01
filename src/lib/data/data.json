@@ -131,6 +131,25 @@
                 "clean_sheets": [],
                 "penalties_saved": [],
                 "motm": "L. Taravinga"
+            },
+            {
+                "matchday": "8",
+                "date": "01/02/2023",
+                "score_plasil": 1,
+                "score_grehn": 2,
+                "goals": [
+                    "B. Geti",
+                    "B. Geti",
+                    "M. Ohizu"
+                ],
+                "assists": [
+                    "M. Mkanganwi",
+                    "M. Mkanganwi",
+                    "U. Chimombe"
+                ],
+                "clean_sheets": [],
+                "penalties_saved": [],
+                "motm": "B. Geti"
             }
         ]
     },

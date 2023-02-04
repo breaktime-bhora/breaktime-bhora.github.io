@@ -164,9 +164,28 @@
                     "M. Ohizu",
                     "U. Chimombe"
                 ],
-                "clean_sheets": [],
+                "clean_sheets": [
+                    "S. Kundra"
+                ],
                 "penalties_saved": [],
                 "motm": "K. Mbendela"
+            },
+            {
+                "matchday": "10",
+                "date": "03/02/2023",
+                "score_plasil": 1,
+                "score_grehn": 1,
+                "goals": [
+                    "L. Taravinga",
+                    "A. Machanzi"
+                ],
+                "assists": [
+                    "P. Mudondo",
+                    "B. Passaportis"
+                ],
+                "clean_sheets": [],
+                "penalties_saved": [],
+                "motm": "A. Machanzi"
             }
         ]
     },

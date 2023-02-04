@@ -9,8 +9,8 @@
 
 	let choices = [];
 
-	let player1 = "A. Sibanda";
-	let player2 = "B. Passaportis"
+	let player1 = "K. Mbendela";
+	let player2 = "M. Mkanganwi"
 
 	$players.forEach(player => {
 		choices.push({

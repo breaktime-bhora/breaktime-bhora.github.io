@@ -186,6 +186,29 @@
                 "clean_sheets": [],
                 "penalties_saved": [],
                 "motm": "A. Machanzi"
+            },
+            {
+                "matchday": "11",
+                "date": "07/02/2023",
+                "score_plasil": 0,
+                "score_grehn": 4,
+                "goals": [
+                    "B. Geti",
+                    "B. Geti",
+                    "M. Mkanganwi",
+                    "K. Gurupira"
+                ],
+                "assists": [
+                    "B. Passaportis",
+                    "B. Passaportis",
+                    "M. Mkanganwi",
+                    "U. Chimombe"
+                ],
+                "clean_sheets": [
+                    "A. Muirimi"
+                ],
+                "penalties_saved": [],
+                "motm": "A. Muirimi"
             }
         ]
     },

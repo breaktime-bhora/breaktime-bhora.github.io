@@ -209,6 +209,28 @@
                 ],
                 "penalties_saved": [],
                 "motm": "B. Geti"
+            },
+            {
+                "matchday": "12",
+                "date": "07/02/2023",
+                "score_plasil": 2,
+                "score_grehn": 3,
+                "goals": [
+                    "Z. Carnegie",
+                    "U. Chimombe",
+                    "A. Ncube",
+                    "P. Mudondo",
+                    "M. Ohizu"
+                ],
+                "assists": [
+                    "B. Passaportis",
+                    "U. Chimombe",
+                    "M. Ohizu",
+                    "P. Mudondo"
+                ],
+                "clean_sheets": [],
+                "penalties_saved": [],
+                "motm": "U. Chimombe"
             }
         ]
     },

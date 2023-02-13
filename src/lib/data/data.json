@@ -231,6 +231,43 @@
                 "clean_sheets": [],
                 "penalties_saved": [],
                 "motm": "U. Chimombe"
+            },
+            {
+                "matchday": "13",
+                "date": "09/02/2023",
+                "score_plasil": 3,
+                "score_grehn": 2,
+                "goals": [
+                    "U. Chimombe",
+                    "U. Chimombe",
+                    "K. Mbendela",
+                    "P. Mudondo",
+                    "M. Ohizu"
+                ],
+                "assists": [
+                    "M. Ohizu",
+                    "P. Mudondo",
+                    "K. Gurupira",
+                    "M. Mkanganwi"
+                ],
+                "clean_sheets": [],
+                "penalties_saved": [],
+                "motm": "M. Ohizu"
+            },
+            {
+                "matchday": "14",
+                "date": "10/02/2023",
+                "score_plasil": 1,
+                "score_grehn": 0,
+                "goals": [
+                    "P. Mudondo"
+                ],
+                "assists": [],
+                "clean_sheets": [
+                    "S. Kundra"
+                ],
+                "penalties_saved": [],
+                "motm": "P. Mudondo"
             }
         ]
     },

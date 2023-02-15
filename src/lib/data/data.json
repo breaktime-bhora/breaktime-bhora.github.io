@@ -291,6 +291,23 @@
                 ],
                 "penalties_saved": [],
                 "motm": "M. Mkanganwi"
+            },
+            {
+                "matchday": "16",
+                "date": "15/02/2023",
+                "score_plasil": 1,
+                "score_grehn": 1,
+                "goals": [
+                    "M. Kashaya",
+                    "M. Ohizu"
+                ],
+                "assists": [
+                    "U. Chimombe",
+                    "B. Geti"
+                ],
+                "clean_sheets": [],
+                "penalties_saved": [],
+                "motm": "M. Ohizu"
             }
         ]
     },

@@ -308,6 +308,24 @@
                 "clean_sheets": [],
                 "penalties_saved": [],
                 "motm": "M. Ohizu"
+            },
+            {
+                "matchday": "17",
+                "date": "22/02/2023",
+                "score_plasil": 0,
+                "score_grehn": 1,
+                "goals": [
+                    "M. Mkanganwi"
+                ],
+                "assists": [
+                    "B. Passaportis"
+                ],
+                "clean_sheets": [
+                    "A. Muirimi",
+                    "B. Passaportis"
+                ],
+                "penalties_saved": [],
+                "motm": "P. Chimedza"
             }
         ]
     },

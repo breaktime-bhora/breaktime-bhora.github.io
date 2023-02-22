@@ -314,15 +314,12 @@
                 "date": "22/02/2023",
                 "score_plasil": 0,
                 "score_grehn": 1,
-                "goals": [
-                    "M. Mkanganwi"
-                ],
-                "assists": [
-                    "B. Passaportis"
-                ],
+                "goals": [],
+                "assists": [],
                 "clean_sheets": [
                     "A. Muirimi",
-                    "B. Passaportis"
+                    "B. Passaportis",
+                    "U. Chimombe"
                 ],
                 "penalties_saved": [],
                 "motm": "P. Chimedza"

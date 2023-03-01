@@ -342,6 +342,25 @@
                 "clean_sheets": [],
                 "penalties_saved": [],
                 "motm": "A. Machanzi"
+            },
+            {
+                "matchday": "19",
+                "date": "01/03/2023",
+                "score_plasil": 0,
+                "score_grehn": 2,
+                "goals": [
+                    "B. Geti",
+                    "B. Geti"
+                ],
+                "assists": [
+                    "P. Chimedza",
+                    "B. Passaportis"
+                ],
+                "clean_sheets": [
+                    "A. Muirimi"
+                ],
+                "penalties_saved": [],
+                "motm": "B. Geti"
             }
         ]
     },

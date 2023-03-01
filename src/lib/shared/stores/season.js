@@ -19,7 +19,6 @@ let selected = data;
 
 recent.set([... selected[0].stats].slice(-1));
 
-
 season.subscribe((value) => {
     let current = value;
 
@@ -72,7 +71,7 @@ season.subscribe((value) => {
 	if (results[0].won < results[1].won || (results[0].won == results[1].won && results[0].g[0] < results[1].g[0])) {
 		results[1].position = "1";
 		results[0].position = "2";
-		teams.reverse();
+		results.reverse();
 	} else if (results[0].won == results[1].won) {
 		results[1].position = "=1";
 		results[0].position = "=1";

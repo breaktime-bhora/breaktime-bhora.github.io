@@ -361,6 +361,21 @@
                 ],
                 "penalties_saved": [],
                 "motm": "B. Geti"
+            },
+            {
+                "matchday": "20",
+                "date": "02/03/2023",
+                "score_plasil": 1,
+                "score_grehn": 0,
+                "goals": [
+                    "M. Ohizu"
+                ],
+                "assists": [],
+                "clean_sheets": [
+                    "S. Kundra"
+                ],
+                "penalties_saved": [],
+                "motm": "U. Chimombe"
             }
         ]
     },

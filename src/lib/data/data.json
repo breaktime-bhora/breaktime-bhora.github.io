@@ -376,6 +376,23 @@
                 ],
                 "penalties_saved": [],
                 "motm": "U. Chimombe"
+            },
+            {
+                "matchday": "21",
+                "date": "03/03/2023",
+                "score_plasil": 1,
+                "score_grehn": 0,
+                "goals": [
+                    "M. Ohizu"
+                ],
+                "assists": [
+                    "P. Mudondo"
+                ],
+                "clean_sheets": [
+                    "S. Kundra"
+                ],
+                "penalties_saved": [],
+                "motm": "M. Ohizu"
             }
         ]
     },

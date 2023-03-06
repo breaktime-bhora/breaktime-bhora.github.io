@@ -62,14 +62,11 @@ current_data.subscribe((value) => {
         player("T. Chasi", ["MID"], "Plasil"),
         player("T. Guviriro", ["MID"], "Plasil"),
         player("S. Magodora", ["MID"], "Plasil"),
-        player("A. Marini", ["MID"], "Plasil"),
         player("J. Mupawose", ["MID"], "Plasil"),
         player("A. Sibanda", ["MID", "FWD"], "Plasil"),
-        player("U. Chimombe", ["MID", "FWD"], "Grehn (On Loan)"),
+        player("U. Chimombe", ["GK", "MID", "FWD"], "Plasil"),
         player("K. Mbendela", ["FWD"], "Plasil"),
         player("P. Mudondo", ["FWD"], "Plasil"),
-        player("V. Sherekete", ["FWD"], "Plasil"),
-        player("Z. Carnegie", ["GK", "MID"], "Grehn"),
         player("B. Passaportis", ["GK", "MID", "FWD"], "Grehn"),
         player("H. Chikwava", ["GK", "DEF"], "Grehn"),
         player("A. Muirimi", ["GK", "DEF"], "Grehn"),
@@ -80,11 +77,9 @@ current_data.subscribe((value) => {
         player("P. Nebarwe", ["MID"], "Grehn"),
         player("P. Chimedza", ["MID", "FWD"], "Grehn"),
         player("A. Ncube", ["MID"], "Grehn"),
-        player("J. Rocha", ["MID"], "Grehn"),
         player("T. Owen", ["MID"], "Grehn"),
         player("B. Geti", ["FWD"], "Grehn"),
         player("M. Mkanganwi", ["FWD"], "Grehn"),
-        player("B. Hansen", ["FWD"], "Grehn"),
         player("K. Gurupira", ["FWD"], "Grehn")
     ]);
 });

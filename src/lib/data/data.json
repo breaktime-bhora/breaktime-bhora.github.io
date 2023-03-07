@@ -393,6 +393,24 @@
                 ],
                 "penalties_saved": [],
                 "motm": "M. Ohizu"
+            },
+            {
+                "matchday": "22",
+                "date": "07/03/2023",
+                "score_plasil": 0,
+                "score_grehn": 2,
+                "goals": [
+                    "B. Geti",
+                    "M. Mkanganwi"
+                ],
+                "assists": [
+                    "P. Chimedza"
+                ],
+                "clean_sheets": [
+                    "A. Muirimi"
+                ],
+                "penalties_saved": [],
+                "motm": "B. Geti"
             }
         ]
     },

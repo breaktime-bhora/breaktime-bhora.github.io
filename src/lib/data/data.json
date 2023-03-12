@@ -411,6 +411,25 @@
                 ],
                 "penalties_saved": [],
                 "motm": "B. Geti"
+            },
+            {
+                "matchday": "23",
+                "date": "08/03/2023",
+                "score_plasil": 2,
+                "score_grehn": 0,
+                "goals": [
+                    "M. Ohizu",
+                    "P. Mudondo"
+                ],
+                "assists": [
+                    "K. Mbendela",
+                    "U. Chimombe"
+                ],
+                "clean_sheets": [
+                    "S. Kundra"
+                ],
+                "penalties_saved": [],
+                "motm": "P. Mudondo"
             }
         ]
     },

@@ -430,6 +430,24 @@
                 ],
                 "penalties_saved": [],
                 "motm": "P. Mudondo"
+            },
+            {
+                "matchday": "25",
+                "date": "13/03/2023",
+                "score_plasil": 2,
+                "score_grehn": 2,
+                "goals": [
+                    "M. Ohizu",
+                    "B. Geti",
+                    "B. Geti"
+                ],
+                "assists": [
+                    "P. Chimedza",
+                    "Z. Carnegie"
+                ],
+                "clean_sheets": [],
+                "penalties_saved": [],
+                "motm": "B. Geti"
             }
         ]
     },

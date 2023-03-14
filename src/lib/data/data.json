@@ -448,6 +448,25 @@
                 "clean_sheets": [],
                 "penalties_saved": [],
                 "motm": "B. Geti"
+            },
+            {
+                "matchday": "26",
+                "date": "14/03/2023",
+                "score_plasil": 0,
+                "score_grehn": 2,
+                "goals": [
+                    "M. Mkanganwi",
+                    "M. Mkanganwi"
+                ],
+                "assists": [
+                    "T. Owen",
+                    "B. Geti"
+                ],
+                "clean_sheets": [
+                    "A. Machanzi"
+                ],
+                "penalties_saved": [],
+                "motm": "M. Mkanganwi"
             }
         ]
     },

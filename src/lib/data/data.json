@@ -484,6 +484,23 @@
                 "clean_sheets": [],
                 "penalties_saved": [],
                 "motm": "D. Economou"
+            },
+            {
+                "matchday": "28",
+                "date": "16/03/2023",
+                "score_plasil": 1,
+                "score_grehn": 0,
+                "goals": [
+                    "U. Chimombe"
+                ],
+                "assists": [
+                    "M. Ohizu"
+                ],
+                "clean_sheets": [
+                    "S. Kundra"
+                ],
+                "penalties_saved": [],
+                "motm": "M. Ohizu"
             }
         ]
     },

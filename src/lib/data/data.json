@@ -501,6 +501,20 @@
                 ],
                 "penalties_saved": [],
                 "motm": "M. Ohizu"
+            },
+            {
+                "matchday": "29",
+                "date": "17/03/2023",
+                "score_plasil": 0,
+                "score_grehn": 0,
+                "goals": [],
+                "assists": [],
+                "clean_sheets": [
+                    "S. Kundra",
+                    "B. Passaportis"
+                ],
+                "penalties_saved": [],
+                "motm": "P. Chimedza"
             }
         ]
     },

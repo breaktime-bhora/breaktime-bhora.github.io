@@ -530,6 +530,36 @@
                 ],
                 "penalties_saved": [],
                 "motm": "S. Kundra"
+            },
+            {
+                "matchday": "31",
+                "date": "22/03/2023",
+                "score_plasil": 7,
+                "score_grehn": 1,
+                "goals": [
+                    "M. Ohizu",
+                    "M. Ohizu",
+                    "K. Mbendela",
+                    "K. Mbendela",
+                    "U. Chimombe",
+                    "S. Magodora",
+                    "P. Mudondo",
+                    "B. Geti"
+                ],
+                "assists": [
+                    "S. Magodora",
+                    "S. Magodora",
+                    "M. Ohizu",
+                    "T. Chasi",
+                    "P. Mudondo",
+                    "U. Chimombe",
+                    "M. Ohizu"
+                ],
+                "clean_sheets": [],
+                "penalties_saved": [
+                    "S. Kundra"
+                ],
+                "motm": "S. Magodora"
             }
         ]
     },

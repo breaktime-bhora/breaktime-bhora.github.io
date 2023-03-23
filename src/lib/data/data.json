@@ -560,6 +560,21 @@
                     "S. Kundra"
                 ],
                 "motm": "S. Magodora"
+            },
+            {
+                "matchday": "32",
+                "date": "23/03/2023",
+                "score_plasil": 0,
+                "score_grehn": 1,
+                "goals": [
+                    "B. Geti"
+                ],
+                "assists": [],
+                "clean_sheets": [
+                    "M. Mkanganwi"
+                ],
+                "penalties_saved": [],
+                "motm": "M. Mkanganwi"
             }
         ]
     },

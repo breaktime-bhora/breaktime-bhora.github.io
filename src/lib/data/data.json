@@ -592,6 +592,22 @@
                 ],
                 "penalties_saved": [],
                 "motm": "K. Shearing"
+            },
+            {
+                "matchday": "34",
+                "date": "28/03/2023",
+                "score_plasil": 0,
+                "score_grehn": 1,
+                "goals": [
+                    "B. Geti"
+                ],
+                "assists": [],
+                "clean_sheets": [
+                    "S. Kundra",
+                    "A. Muirimi"
+                ],
+                "penalties_saved": [],
+                "motm": "H. Chikwava"
             }
         ]
     },

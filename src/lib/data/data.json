@@ -622,6 +622,23 @@
                 ],
                 "penalties_saved": [],
                 "motm": "P. Mudondo"
+            },
+            {
+                "matchday": "36",
+                "date": "30/03/2023",
+                "score_plasil": 0,
+                "score_grehn": 2,
+                "goals": [
+                    "M. Kashaya",
+                    "K. Gurupira",
+                    "U. Chimombe"
+                ],
+                "assists": [
+                    "T. Owen"
+                ],
+                "clean_sheets": [],
+                "penalties_saved": [],
+                "motm": "M. Kashaya"
             }
         ]
     },

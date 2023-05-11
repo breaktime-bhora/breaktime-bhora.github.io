@@ -67,6 +67,7 @@ current_data.subscribe((value) => {
         player("U. Chimombe", ["GK", "MID", "FWD"], "Plasil"),
         player("K. Mbendela", ["FWD"], "Plasil"),
         player("P. Mudondo", ["FWD"], "Plasil"),
+        player("J. Tungamirai", ["FWD"], "Plasil"),
         player("B. Passaportis", ["GK", "MID", "FWD"], "Grehn"),
         player("H. Chikwava", ["GK", "DEF"], "Grehn"),
         player("A. Muirimi", ["GK", "DEF"], "Grehn"),

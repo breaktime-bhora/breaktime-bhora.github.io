@@ -4,7 +4,7 @@
 
     function background(plasil, grehn, team) {
         if (plasil > grehn) {
-            if (team == "P&B") {
+            if (team == "Plasil") {
                 return "#01dfb6";
                 
             } else {
@@ -15,7 +15,7 @@
             return "#dddddd";
             
         } else {
-            if (team == "P&B") {
+            if (team == "Plasil") {
                 return "#ff6b80";
                 
             } else {
@@ -26,7 +26,7 @@
     
     function symbol(plasil, grehn, team) {
         if (plasil > grehn) {
-            if (team == "P&B") {
+            if (team == "Plasil") {
                 return "W";
                 
             } else {
@@ -37,7 +37,7 @@
             return "D";
             
         } else {
-            if (team == "P&B") {
+            if (team == "Plasil") {
                 return "L";
                 
             } else {

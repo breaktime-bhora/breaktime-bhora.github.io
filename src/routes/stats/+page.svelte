@@ -1,5 +1,6 @@
 <script>
 	import { stats, goalscorers, assistants, motm, goalkeepers, penalties, involvements } from "$lib/shared/stores/season.js";
+	import { players } from "$lib/shared/stores/players.js";
 	import Select from 'svelte-select';
 
 	const groupBy = (item) => item.group;
@@ -38,47 +39,54 @@
 	<table>
 		<tr><th>Player</th><th>Goals</th></tr>
 		{#each $goalscorers as player}
-			<tr><td>{player[0]}</td><td>{player[1]}</td></tr>
+			<tr><td class="flex"><img height="34px" src="./{$players.find(o => o.name === player[0]).club.toLowerCase()}.png" alt="{$players.find(o => o.name === player[0]).club}">{player[0]}</td><td>{player[1]}</td></tr>
 		{/each}
 	</table>
 {:else if $stats == "assists"} 
 	<table>
 		<tr><th>Player</th><th>Assists</th></tr>
 		{#each $assistants as player}
-			<tr><td>{player[0]}</td><td>{player[1]}</td></tr>
+			<tr><td class="flex"><img height="34px" src="./{$players.find(o => o.name === player[0]).club.toLowerCase()}.png" alt="{$players.find(o => o.name === player[0]).club}">{player[0]}</td><td>{player[1]}</td></tr>
 		{/each}
 	</table>
 {:else if $stats == "goal-involvements"} 
 	<table>
 		<tr><th>Player</th><th>Goal Involvements</th></tr>
 		{#each $involvements as player}
-			<tr><td>{player[0]}</td><td>{player[1]}</td></tr>
+			<tr><td class="flex"><img height="34px" src="./{$players.find(o => o.name === player[0]).club.toLowerCase()}.png" alt="{$players.find(o => o.name === player[0]).club}">{player[0]}</td><td>{player[1]}</td></tr>
 		{/each}
 	</table>
 {:else if $stats == "motm"} 
 	<table>
 		<tr><th>Player</th><th>Man Of The Match</th></tr>
 		{#each $motm as player}
-			<tr><td>{player[0]}</td><td>{player[1]}</td></tr>
+			<tr><td class="flex"><img height="34px" src="./{$players.find(o => o.name === player[0]).club.toLowerCase()}.png" alt="{$players.find(o => o.name === player[0]).club}">{player[0]}</td><td>{player[1]}</td></tr>
 		{/each}
 	</table>
 {:else if $stats == "clean-sheets"}
 	<table>
 		<tr><th>Player</th><th>Clean Sheets</th></tr>
 		{#each $goalkeepers as player}
-			<tr><td>{player[0]}</td><td>{player[1]}</td></tr>
+			<tr><td class="flex"><img height="34px" src="./{$players.find(o => o.name === player[0]).club.toLowerCase()}.png" alt="{$players.find(o => o.name === player[0]).club}">{player[0]}</td><td>{player[1]}</td></tr>
 		{/each}
 	</table>
 {:else if $stats == "penalties-saved"}
 	<table>
 		<tr><th>Player</th><th>Penalties Saved</th></tr>
 		{#each $penalties as player}
-			<tr><td>{player[0]}</td><td>{player[1]}</td></tr>
+			<tr><td class="flex"><img height="34px" src="./{$players.find(o => o.name === player[0]).club.toLowerCase()}.png" alt="{$players.find(o => o.name === player[0]).club}">{player[0]}</td><td>{player[1]}</td></tr>
 		{/each}
 	</table>
 {/if}
 
 <style>
+	.flex {
+		display: flex;
+		align-items: center;
+	}
+	.flex > img {
+		margin-right: 0.8em;
+	}
 	h2 {
 		margin-top: 0;
 		margin-bottom: 0;

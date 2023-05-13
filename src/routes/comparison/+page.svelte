@@ -9,8 +9,8 @@
 
 	let choices = [];
 
-	let player1 = "K. Mbendela";
-	let player2 = "M. Mkanganwi"
+	let player1 = "Kieran Mbendela";
+	let player2 = "Mudiwa Mkanganwi"
 
 	$players.forEach(player => {
 		choices.push({
@@ -57,7 +57,7 @@
 		<h2>{ player1 }</h2>
 		<table>
 			<tr><th width="50%">Stats</th><th>Values</th></tr>
-			<tr><td>Club</td><td>{ $players.find(o => o.name === player1).club }</td></tr>
+			<tr><td>Club</td><td class="flex1"><img class="img1" height="34px" src="./{$players.find(o => o.name === player1).club.toLowerCase()}.png" alt="{$players.find(o => o.name === player1).club}">{ $players.find(o => o.name === player1).club }</td></tr>
 			<tr><td>Positions</td><td>{ $players.find(o => o.name === player1).position.toString().split(",").join(", ") }</td></tr>
 			<tr><td>Man of the Match</td><td>{ $players.find(o => o.name === player1).motm }</td></tr>
 			<tr><td>Goals</td><td>{ $players.find(o => o.name === player1).goals }</td></tr>
@@ -71,7 +71,7 @@
 		<h2>{ player2 }</h2>
 		<table>
 			<tr><th width="50%">Stats</th><th>Values</th></tr>
-			<tr><td>Club</td><td>{ $players.find(o => o.name === player2).club }</td></tr>
+			<tr><td>Club</td><td class="flex2">{ $players.find(o => o.name === player2).club }<img class="img2" height="34px" src="./{$players.find(o => o.name === player2).club.toLowerCase()}.png" alt="{$players.find(o => o.name === player2).club}"></td></tr>
 			<tr><td>Positions</td><td>{ $players.find(o => o.name === player2).position.toString().split(",").join(", ") }</td></tr>
 			<tr><td>Man of the Match</td><td>{ $players.find(o => o.name === player2).motm }</td></tr>
 			<tr><td>Goals</td><td>{ $players.find(o => o.name === player2).goals }</td></tr>
@@ -84,6 +84,26 @@
 </div>
 
 <style>
+	.flex1 {
+		display: flex;
+		align-items: center;
+		justify-content: left;
+	}
+
+	.flex2 {
+		display: flex;
+		align-items: center;
+		justify-content: right;
+	}
+	
+	.img1 {
+		margin-right: 0.8em;
+	}
+
+	.img2 {
+		margin-left: 0.8em;
+	}
+
 	.header, .body {
 		display: grid;
 		width: 100%;

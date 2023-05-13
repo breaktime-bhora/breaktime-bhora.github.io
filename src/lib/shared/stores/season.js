@@ -46,7 +46,7 @@ season.subscribe((value) => {
 		}
 	}
 
-    let results = [ new generateTeam("P&B"), new generateTeam("G&J")]
+    let results = [ new generateTeam("Plasil"), new generateTeam("Grehn")]
 
 	selected[current].stats.forEach((node) => {
 		// Wins/Draws/Losses

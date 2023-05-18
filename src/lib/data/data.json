@@ -44,6 +44,25 @@
                 ],
                 "penalties_saved": [],
                 "motm": "Albert Sibanda"
+            },
+            {
+                "matchday": "4",
+                "date": "12/05/2023",
+                "score_plasil": 1,
+                "score_grehn": 0,
+                "goals": [
+                    "Albert Sibanda",
+                    "Albert Sibanda",
+                    "Prosper Nebarwe"
+                ],
+                "assists": [
+                    "Kieran Mbendela",
+                    "Kieran Mbendela",
+                    "Paul Chimedza"
+                ],
+                "clean_sheets": [],
+                "penalties_saved": [],
+                "motm": "Kieran Mbendela"
             }
         ]
     },

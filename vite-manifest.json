@@ -1,11 +1,11 @@
 {
   "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "_app/immutable/start-369976d0.js",
+    "file": "_app/immutable/start-f4a4fd3f.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
     "isEntry": true,
     "imports": [
       "_index-e416c001.js",
-      "_singletons-5af5c14e.js"
+      "_singletons-ed475ab8.js"
     ],
     "dynamicImports": [
       ".svelte-kit/generated/nodes/0.js",
@@ -17,48 +17,48 @@
     ]
   },
   "src/routes/+layout.svelte": {
-    "file": "_app/immutable/components/pages/_layout.svelte-68372317.js",
+    "file": "_app/immutable/components/pages/_layout.svelte-ae057887.js",
     "src": "src/routes/+layout.svelte",
     "isEntry": true,
     "imports": [
       "_index-e416c001.js",
-      "_stores-58fdeee3.js",
+      "_stores-64b136e9.js",
       "_Select-9d7118c3.js",
-      "_season-7e009074.js"
+      "_season-df6e21df.js"
     ],
     "css": [
       "_app/immutable/assets/_layout-b1564337.css"
     ]
   },
   "node_modules/@sveltejs/kit/src/runtime/components/error.svelte": {
-    "file": "_app/immutable/components/error.svelte-41e25259.js",
+    "file": "_app/immutable/components/error.svelte-9185c01f.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/components/error.svelte",
     "isEntry": true,
     "imports": [
       "_index-e416c001.js",
-      "_stores-58fdeee3.js"
+      "_stores-64b136e9.js"
     ]
   },
   "src/routes/+page.svelte": {
-    "file": "_app/immutable/components/pages/_page.svelte-cf230424.js",
+    "file": "_app/immutable/components/pages/_page.svelte-fbcf148f.js",
     "src": "src/routes/+page.svelte",
     "isEntry": true,
     "imports": [
       "_index-e416c001.js",
-      "_season-7e009074.js"
+      "_season-df6e21df.js"
     ],
     "css": [
       "_app/immutable/assets/_page-f32b0760.css"
     ]
   },
   "src/routes/comparison/+page.svelte": {
-    "file": "_app/immutable/components/pages/comparison/_page.svelte-767a3201.js",
+    "file": "_app/immutable/components/pages/comparison/_page.svelte-6dd67175.js",
     "src": "src/routes/comparison/+page.svelte",
     "isEntry": true,
     "imports": [
       "_index-e416c001.js",
-      "_season-7e009074.js",
-      "_players-70d64ed7.js",
+      "_season-df6e21df.js",
+      "_players-678499fc.js",
       "_Select-9d7118c3.js"
     ],
     "css": [
@@ -66,22 +66,22 @@
     ]
   },
   "src/routes/results/+page.svelte": {
-    "file": "_app/immutable/components/pages/results/_page.svelte-786198f7.js",
+    "file": "_app/immutable/components/pages/results/_page.svelte-4057eab4.js",
     "src": "src/routes/results/+page.svelte",
     "isEntry": true,
     "imports": [
       "_index-e416c001.js",
-      "_season-7e009074.js"
+      "_season-df6e21df.js"
     ]
   },
   "src/routes/stats/+page.svelte": {
-    "file": "_app/immutable/components/pages/stats/_page.svelte-850c79c4.js",
+    "file": "_app/immutable/components/pages/stats/_page.svelte-5440bbb2.js",
     "src": "src/routes/stats/+page.svelte",
     "isEntry": true,
     "imports": [
       "_index-e416c001.js",
-      "_season-7e009074.js",
-      "_players-70d64ed7.js",
+      "_season-df6e21df.js",
+      "_players-678499fc.js",
       "_Select-9d7118c3.js"
     ],
     "css": [
@@ -96,8 +96,8 @@
       "__layout-8d2a742b.js"
     ]
   },
-  "_singletons-5af5c14e.js": {
-    "file": "_app/immutable/chunks/singletons-5af5c14e.js",
+  "_singletons-ed475ab8.js": {
+    "file": "_app/immutable/chunks/singletons-ed475ab8.js",
     "imports": [
       "_index-e416c001.js"
     ]
@@ -114,15 +114,15 @@
       "_app/immutable/assets/Select-ddd51714.css"
     ]
   },
-  "_stores-58fdeee3.js": {
-    "file": "_app/immutable/chunks/stores-58fdeee3.js",
+  "_stores-64b136e9.js": {
+    "file": "_app/immutable/chunks/stores-64b136e9.js",
     "imports": [
       "_index-e416c001.js",
-      "_singletons-5af5c14e.js"
+      "_singletons-ed475ab8.js"
     ]
   },
-  "_season-7e009074.js": {
-    "file": "_app/immutable/chunks/season-7e009074.js",
+  "_season-df6e21df.js": {
+    "file": "_app/immutable/chunks/season-df6e21df.js",
     "imports": [
       "_index-e416c001.js"
     ]
@@ -130,15 +130,15 @@
   "__layout-8d2a742b.js": {
     "file": "_app/immutable/chunks/_layout-8d2a742b.js"
   },
-  "_players-70d64ed7.js": {
-    "file": "_app/immutable/chunks/players-70d64ed7.js",
+  "_players-678499fc.js": {
+    "file": "_app/immutable/chunks/players-678499fc.js",
     "imports": [
-      "_season-7e009074.js",
+      "_season-df6e21df.js",
       "_index-e416c001.js"
     ]
   },
   ".svelte-kit/generated/nodes/0.js": {
-    "file": "_app/immutable/chunks/0-f340b735.js",
+    "file": "_app/immutable/chunks/0-614ba85c.js",
     "src": ".svelte-kit/generated/nodes/0.js",
     "isDynamicEntry": true,
     "imports": [
@@ -147,7 +147,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/1.js": {
-    "file": "_app/immutable/chunks/1-e9ac1b6c.js",
+    "file": "_app/immutable/chunks/1-dc41f282.js",
     "src": ".svelte-kit/generated/nodes/1.js",
     "isDynamicEntry": true,
     "imports": [
@@ -155,7 +155,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/2.js": {
-    "file": "_app/immutable/chunks/2-c2be561a.js",
+    "file": "_app/immutable/chunks/2-1224da4a.js",
     "src": ".svelte-kit/generated/nodes/2.js",
     "isDynamicEntry": true,
     "imports": [
@@ -163,7 +163,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/3.js": {
-    "file": "_app/immutable/chunks/3-e7994323.js",
+    "file": "_app/immutable/chunks/3-5f10d593.js",
     "src": ".svelte-kit/generated/nodes/3.js",
     "isDynamicEntry": true,
     "imports": [
@@ -171,7 +171,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/4.js": {
-    "file": "_app/immutable/chunks/4-bb73fb36.js",
+    "file": "_app/immutable/chunks/4-5db61d04.js",
     "src": ".svelte-kit/generated/nodes/4.js",
     "isDynamicEntry": true,
     "imports": [
@@ -179,7 +179,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/5.js": {
-    "file": "_app/immutable/chunks/5-ac524aa3.js",
+    "file": "_app/immutable/chunks/5-f9549fec.js",
     "src": ".svelte-kit/generated/nodes/5.js",
     "isDynamicEntry": true,
     "imports": [
@@ -198,12 +198,12 @@
     "file": "_app/immutable/assets/_page-f32b0760.css",
     "src": "src/routes/+page.css"
   },
-  "src/routes/stats/+page.css": {
-    "file": "_app/immutable/assets/_page-aab6a1e8.css",
-    "src": "src/routes/stats/+page.css"
-  },
   "src/routes/comparison/+page.css": {
     "file": "_app/immutable/assets/_page-85c50faf.css",
     "src": "src/routes/comparison/+page.css"
+  },
+  "src/routes/stats/+page.css": {
+    "file": "_app/immutable/assets/_page-aab6a1e8.css",
+    "src": "src/routes/stats/+page.css"
   }
 }

@@ -80,6 +80,24 @@
                 "clean_sheets": [],
                 "penalties_saved": [],
                 "motm": "Panashe Mudondo"
+            },
+            {
+                "matchday": "5",
+                "date": "22/05/2023",
+                "score_plasil": 2,
+                "score_grehn": 2,
+                "goals": [
+                    "Majesty Ohizu",
+                    "Albert Sibanda",
+                    "Munashe Kashaya",
+                    "Benjamin Passaportis"
+                ],
+                "assists": [
+                    "Mudiwa Mkanganwi"
+                ],
+                "clean_sheets": [],
+                "penalties_saved": [],
+                "motm": "Alexander Ncube"
             }
         ]
     },

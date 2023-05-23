@@ -98,6 +98,20 @@
                 "clean_sheets": [],
                 "penalties_saved": [],
                 "motm": "Alexander Ncube"
+            },
+            {
+                "matchday": "7",
+                "date": "23/05/2023",
+                "score_plasil": 1,
+                "score_grehn": 1,
+                "goals": [
+                    "Albert Sibanda",
+                    "Benedict Geti"
+                ],
+                "assists": [],
+                "clean_sheets": [],
+                "penalties_saved": [],
+                "motm": "Antony Muirimi"
             }
         ]
     },

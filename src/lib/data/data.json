@@ -112,6 +112,22 @@
                 "clean_sheets": [],
                 "penalties_saved": [],
                 "motm": "Antony Muirimi"
+            },
+            {
+                "matchday": "8",
+                "date": "24/05/2023",
+                "score_plasil": 1,
+                "score_grehn": 1,
+                "goals": [
+                    "Shanna Magodora",
+                    "Benedict Get"
+                ],
+                "assists": [
+                    "Karl Gurupira"
+                ],
+                "clean_sheets": [],
+                "penalties_saved": [],
+                "motm": "Shanna Magodora"
             }
         ]
     },

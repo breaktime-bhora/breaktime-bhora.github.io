@@ -146,6 +146,25 @@
                 ],
                 "penalties_saved": [],
                 "motm": "Benedict Geti"
+            },
+            {
+                "matchday": "10",
+                "date": "31/05/2023",
+                "score_plasil": 0,
+                "score_grehn": 3,
+                "goals": [
+                    "Benjamin Passaportis",
+                    "Benjamin Passaportis",
+                    "Paul Chimedza"
+                ],
+                "assists": [
+                    "Andrew Machanzi",
+                    "Antony Muirimi",
+                    "Mudiwa Mkanganwi"
+                ],
+                "clean_sheets": [],
+                "penalties_saved": [],
+                "motm": "Unashe Chimombe"
             }
         ]
     },

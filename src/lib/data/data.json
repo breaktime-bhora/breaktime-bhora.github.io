@@ -198,6 +198,20 @@
                 "clean_sheets": [],
                 "penalties_saved": [],
                 "motm": "Tawananyasha Guviriro"
+            },  
+            {
+                "matchday": "13",
+                "date": "06/06/2023",
+                "score_plasil": 0,
+                "score_grehn": 1,
+                "goals": [
+                    "Benjamin Passaportis",
+                    "Benjamin Passaportis"
+                ],
+                "assists": [],
+                "clean_sheets": [],
+                "penalties_saved": [],
+                "motm": "Benjamin Passaportis"
             }
         ]
     },

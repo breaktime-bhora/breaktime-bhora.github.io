@@ -214,6 +214,39 @@
                 ],
                 "penalties_saved": [],
                 "motm": "Benjamin Passaportis"
+            },
+            {
+                "matchday": "14",
+                "date": "07/06/2023",
+                "score_plasil": 0,
+                "score_grehn": 2,
+                "goals": [
+                    "Karl Gurupira",
+                    "Benedict Geti"
+                ],
+                "assists": [
+                    "Munashe Kashaya",
+                    "Munashe Kashaya"
+                ],
+                "clean_sheets": [
+                    "Andrew Machanzi"
+                ],
+                "penalties_saved": [],
+                "motm": "Munashe Kashaya"
+            },
+            {
+                "matchday": "15",
+                "date": "08/06/2023",
+                "score_plasil": 1,
+                "score_grehn": 1,
+                "goals": [
+                    "Majesty Ohizu",
+                    "Benedict Geti"
+                ],
+                "assists": [],
+                "clean_sheets": [],
+                "penalties_saved": [],
+                "motm": "Honoured Chikwava"
             }
         ]
     },

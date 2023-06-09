@@ -249,6 +249,22 @@
                 "clean_sheets": [],
                 "penalties_saved": [],
                 "motm": "Honoured Chikwava"
+            },
+            {
+                "matchday": "16",
+                "date": "09/06/2023",
+                "score_plasil": 0,
+                "score_grehn": 0,
+                "goals": [],
+                "assists": [],
+                "clean_sheets": [
+                    "Majesty Ohizu",
+                    "Paul Chimedza"
+                ],
+                "penalties_saved": [
+                    "Majesty Ohizu"
+                ],
+                "motm": "Majesty Ohizu"
             }
         ]
     },

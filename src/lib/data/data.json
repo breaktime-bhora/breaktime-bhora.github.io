@@ -265,6 +265,20 @@
                     "Majesty Ohizu"
                 ],
                 "motm": "Majesty Ohizu"
+            },
+            {
+                "matchday": "17",
+                "date": "13/06/2023",
+                "score_plasil": 1,
+                "score_grehn": 1,
+                "goals": [
+                    "Paul Chimedza",
+                    "Majesty Ohizu"
+                ],
+                "assists": [],
+                "clean_sheets": [],
+                "penalties_saved": [],
+                "motm": "Paul Chimedza"
             }
         ]
     },

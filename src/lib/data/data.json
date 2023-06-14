@@ -279,6 +279,23 @@
                 "clean_sheets": [],
                 "penalties_saved": [],
                 "motm": "Paul Chimedza"
+            },
+            {
+                "matchday": "18",
+                "date": "14/06/2023",
+                "score_plasil": 1,
+                "score_grehn": 1,
+                "goals": [
+                    "Benedict Geti",
+                    "Kieran Mbendela"
+                ],
+                "assists": [
+                    "Unashe Chimombe",
+                    "Benjamin Passaportis"
+                ],
+                "clean_sheets": [],
+                "penalties_saved": [],
+                "motm": "Unashe Chimombe"
             }
         ]
     },

@@ -85,6 +85,8 @@ current_data.subscribe((value) => {
         player("Mudiwa Mkanganwi", ["FWD"], "Grehn"),
         player("Karl Gurupira", ["FWD"], "Grehn"),
         player("Benedict Hansen", ["FWD"], "Grehn"),
-        player("Zachary Carnegie", ["GK", "FWD"], "Grehn")
+        player("Zachary Carnegie", ["GK", "FWD"], "Grehn"),
+        player("Matipa Mawere", ["FWD"], "Plasil"),
+        player("David Mliswa", ["GK"], "Grehn")
     ]);
 });

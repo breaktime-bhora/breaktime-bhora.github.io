@@ -356,6 +356,41 @@
                 ],
                 "penalties_saved": [],
                 "motm": "Albert Sibanda"
+            },
+            {
+                "matchday": "21",
+                "date": "18/07/2023",
+                "score_plasil": 2,
+                "score_grehn": 0,
+                "goals": [
+                    "Majesty Ohizu",
+                    "Matipa Mawere"
+                ],
+                "assists": [
+                    "Majesty Ohizu"
+                ],
+                "clean_sheets": [
+                    "Sparsh Kundra"
+                ],
+                "penalties_saved": [],
+                "motm": "Majesty Ohizu"
+            },
+            {
+                "matchday": "22",
+                "date": "19/07/2023",
+                "score_plasil": 0,
+                "score_grehn": 1,
+                "goals": [
+                    "Benjamin Passaportis"
+                ],
+                "assists": [
+                    "Mudiwa Mkanganwi"
+                ],
+                "clean_sheets": [
+                    "David Mliswa"
+                ],
+                "penalties_saved": [],
+                "motm": "Mudiwa Mkanganwi"
             }
         ]
     },

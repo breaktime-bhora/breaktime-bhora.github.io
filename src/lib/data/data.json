@@ -419,6 +419,61 @@
                 ],
                 "penalties_saved": [],
                 "motm": "Majesty Ohizu"
+            },
+            {
+                "matchday": "25",
+                "date": "26/07/2023",
+                "score_plasil": 0,
+                "score_grehn": 2,
+                "goals": [
+                    "Honoured Chikwava",
+                    "Antony Muirimi"
+                ],
+                "assists": [
+                    "Mudiwa Mkanganwi"
+                ],
+                "clean_sheets": [],
+                "penalties_saved": [],
+                "motm": "Mudiwa Mkanganwi"
+            },
+            {
+                "matchday": "26",
+                "date": "27/07/2023",
+                "score_plasil": 1,
+                "score_grehn": 1,
+                "goals": [
+                    "Majesty Ohizu",
+                    "Andrew Machanzi"
+                ],
+                "assists": [
+                    "Honoured Chikwava"
+                ],
+                "clean_sheets": [],
+                "penalties_saved": [],
+                "motm": "Mudiwa Mkanganwi"
+            },
+            {
+                "matchday": "27",
+                "date": "28/07/2023",
+                "score_plasil": 3,
+                "score_grehn": 2,
+                "goals": [
+                    "Valentine Sherekete",
+                    "Valentine Sherekete",
+                    "Albert Sibanda",
+                    "Munashe Kashaya",
+                    "Antony Muirimi"
+                ],
+                "assists": [
+                    "Albert Sibanda",
+                    "Albert Sibanda",
+                    "Mudiwa Mkanganwi"
+                ],
+                "clean_sheets": [
+                    "Benjamin Passaportis"
+                ],
+                "penalties_saved": [],
+                "motm": "Albert Sibanda"
             }
         ]
     },

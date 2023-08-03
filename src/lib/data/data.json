@@ -474,6 +474,41 @@
                 ],
                 "penalties_saved": [],
                 "motm": "Albert Sibanda"
+            },
+            {
+                "matchday": "28",
+                "date": "30/07/2023",
+                "score_plasil": 1,
+                "score_grehn": 0,
+                "goals": [
+                    "Majesty Ohizu"
+                ],
+                "assists": [],
+                "clean_sheets": [
+                    "Shanna Magodora"
+                ],
+                "penalties_saved": [],
+                "motm": "Majesty Ohizu"
+            },
+            {
+                "matchday": "29",
+                "date": "03/08/2023",
+                "score_plasil": 2,
+                "score_grehn": 2,
+                "goals": [
+                    "Majesty Ohizu",
+                    "Majesty Ohizu",
+                    "Benjamin Passaportis",
+                    "Honoured Chikwava"
+                ],
+                "assists": [
+                    "Benedict Geti",
+                    "Shanna Magodora",
+                    "Benjamin Passaportis"
+                ],
+                "clean_sheets": [],
+                "penalties_saved": [],
+                "motm": "Majesty Ohizu"
             }
         ]
     },

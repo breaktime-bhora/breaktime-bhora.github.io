@@ -1,5 +1,25 @@
 [
     {
+        "season": "3rd Term 2023",
+        "stats": [
+            {
+                "matchday": "1",
+                "date": "05/09/2023",
+                "score_plasil": 1,
+                "score_grehn": 0,
+                "goals": [
+                    "Majesty Ohizu"
+                ],
+                "assists": [],
+                "clean_sheets": [
+                    "Sparsh Kundra"
+                ],
+                "penalties_saved": [],
+                "motm": "Albert Sibanda"
+            }
+        ]
+    },
+    {
         "season": "2nd Term 2023",
         "stats": [
             {

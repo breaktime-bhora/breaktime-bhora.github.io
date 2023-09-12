@@ -48,6 +48,23 @@
                 ],
                 "penalties_saved": [],
                 "motm": "Tawananyasha Guviriro"
+            },
+            {
+                "matchday": "4",
+                "date": "12/09/2023",
+                "score_plasil": 0,
+                "score_grehn": 1,
+                "goals": [
+                    "Antony Muirimi"
+                ],
+                "assists": [],
+                "clean_sheets": [
+                    "Benjamin Passaportis"
+                ],
+                "penalties_saved": [
+                    "Benjamin Passaportis"
+                ],
+                "motm": "Benjamin Passaportis"
             }
 
         ]

@@ -65,8 +65,50 @@
                     "Benjamin Passaportis"
                 ],
                 "motm": "Benjamin Passaportis"
+            },
+            {
+                "matchday": "5",
+                "date": "13/09/2023",
+                "score_plasil": 0,
+                "score_grehn": 1,
+                "goals": [
+                    "Unashe Chimombe"
+                ],
+                "assists": [],
+                "clean_sheets": [
+                    "David Mliswa"
+                ],
+                "penalties_saved": [],
+                "motm": "Unashe Chimombe"
+            },
+            {
+                "matchday": "6",
+                "date": "14/09/2023",
+                "score_plasil": 1,
+                "score_grehn": 1,
+                "goals": [
+                    "Mudiwa Mkanganwi",
+                    "Majesty Ohizu"
+                ],
+                "assists": [],
+                "clean_sheets": [],
+                "penalties_saved": [],
+                "motm": "Mudiwa Mkanganwi"
+            },
+            {
+                "matchday": "7",
+                "date": "15/09/2023",
+                "score_plasil": 1,
+                "score_grehn": 1,
+                "goals": [
+                    "Benjamin Passaportis",
+                    "Albert Sibanda"
+                ],
+                "assists": [],
+                "clean_sheets": [],
+                "penalties_saved": [],
+                "motm": "Albert Sibanda"
             }
-
         ]
     },
     {
@@ -509,7 +551,7 @@
             {
                 "matchday": "26",
                 "date": "27/07/2023",
-                "score_plasil": 1,
+                88   "score_plasil": 1,
                 "score_grehn": 1,
                 "goals": [
                     "Majesty Ohizu",

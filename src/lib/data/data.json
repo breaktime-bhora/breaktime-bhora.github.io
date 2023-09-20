@@ -108,6 +108,52 @@
                 "clean_sheets": [],
                 "penalties_saved": [],
                 "motm": "Albert Sibanda"
+            },
+            {
+                "matchday": "8",
+                "date": "18/09/2023",
+                "score_plasil": 1,
+                "score_grehn": 0,
+                "goals": [
+                    "Majesty Ohizu"
+                ],
+                "assists": [
+                    "Unashe Chimombe"
+                ],
+                "clean_sheets": [
+                    "Sparsh Kundra"
+                ],
+                "penalties_saved": [],
+                "motm": "Unashe Chimombe"
+            },
+            {
+                "matchday": "9",
+                "date": "19/09/2023",
+                "score_plasil": 0,
+                "score_grehn": 0,
+                "goals": [],
+                "assists": [],
+                "clean_sheets": [
+                    "Sparsh Kundra",
+                    "David Mliswa"
+                ],
+                "penalties_saved": [],
+                "motm": "Sparsh Kundra"
+            },
+            {
+                "matchday": "10",
+                "date": "20/09/2023",
+                "score_plasil": 0,
+                "score_grehn": 1,
+                "goals": [
+                    "Benjamin Passaportis"
+                ],
+                "assists": [],
+                "clean_sheets": [
+                    "Honoured Chikwava"
+                ],
+                "penalties_saved": [],
+                "motm": "Alexander Ncube"
             }
         ]
     },
@@ -551,7 +597,7 @@
             {
                 "matchday": "26",
                 "date": "27/07/2023",
-                "score_plasil": 1,
+                2092"score_plasil": 1,
                 "score_grehn": 1,
                 "goals": [
                     "Majesty Ohizu",
